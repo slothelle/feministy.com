@@ -1,0 +1,23 @@
+---
+layout: default
+title: "feministy.com - Blog archives"
+---
+<h1>Blog Archives</h1>
+
+<p>
+  Oldest posts listed first, just in case you want to read something that I wrote 4 years ago.
+</p>
+
+<hr>
+
+{% for post in site.categories.blog %}
+  <h4>{{ post.title }} <small class="muted pull-right">{{ post.date | date: "%-d %B %Y" }}</small></h4>
+  <p>
+    <a href="{{ post.url }}" class="badge badge-success">Read full post &rarr;</a>
+    <span class="pull-right">
+      {% for category in post.categories %}
+        <span class="badge">{{ category }}</span> 
+      {% endfor %}
+    </span>
+  </p><br>
+{% endfor %}

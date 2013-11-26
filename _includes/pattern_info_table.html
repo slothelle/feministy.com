@@ -1,0 +1,14 @@
+<dl class="dl-horizontal">
+  <dt>Gauge</dt>
+  <dd>{{ page.gauge_description }}</dd>
+  <dt>Yardage</dt>
+  <dd>{{ page.yardage_description }} {{ page.yarn_weight_description }}</dd>
+  <dt>Yarns</dt>
+  <dd>{{ page.yarns }}</dd>
+  <dt>Needles</dt>
+  <dd>{{ page.needles }}</dd>
+  {% if page.sizes %}
+    <dt>Sizes</dt>
+    <dd>{{ page.sizes | array_to_sentence_string }}</dd>
+  {% endif %}
+</dl>

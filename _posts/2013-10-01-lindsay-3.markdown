@@ -1,0 +1,30 @@
+---
+layout: pattern
+date: 2013-11-26 16:36:18
+ravelry_permalink: 'http://www.ravelry.com/patterns/library/lindsay-3'
+title: "Lindsay"
+categories: ["socks", "pattern", "funke"]
+needles: 'US 1½ - 2.5 mm'
+sizes: ["Small (US women's 7-8 shoe), Large (US women's 8.5-10 shoe)"]
+yarns: 'Little Red Bicycle Hipster sock (Fingering)'
+yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
+yardage_description: ' yards'
+gauge: 'stockinette'
+gauge_description: '32 stitches and 36 rows = 4 inches in stockinette'
+images: ["http://images4-d.ravelrycache.com/uploads/feministy/45527808/foot-wm_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45527751/leg-wm_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45527861/back-wm_medium.jpg"]
+tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/45527808/foot-wm_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45527751/leg-wm_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/45527861/back-wm_square.jpg"]
+image: 'http://images4-b.ravelrycache.com/uploads/feministy/45527808/foot-wm_square.jpg'
+price: '$5.00'
+purchase_link: 'http://www.ravelry.com/purchase/feministy/50577'
+collection: 'Fünke Socks'
+collection_purchase_link: http://www.ravelry.com/purchase/feministy/50578 
+collection_price: $12.00 
+collection_permalink: funke-socks 
+---
+<p>Lindsay is my favorite Fünke. While Tobias has some of the best lines, Lindsay has some gems (usually related to her weight, her mother’s age, or alcohol). I took my time selecting a stitch pattern for Lindsay. I wanted something sophisticated (since she’s so into fashion), feminine (since she’s played by the flawless Portia di Rossi), and simple (since she’s not necessarily the brightest crayon).</p>
+
+<p>An intricate lace pattern surrounded by knit and lace ribbing gives this sock a little bit of simplicity, and helps give your mind a rest as you work the unique stitch pattern.</p>
+
+<p>This pattern comes in two sizes: small (US women’s 7-8 shoe size) and large (US women’s 8.5-10 shoe size). Due to the extra open lace and the ribbing, the sock is abnormally stretchy.</p>
+
+<p>This pattern is written cuff-down, with instructions provided for a heel flap. Please note that this pattern is written for two circular needles and uses the abbreviation “ndl1″ and “ndl2″ to indicate this. If using DPNs, make sure you pay close attention to this. Instructions for different sizes are provided in <span>brackets</span>.</p>

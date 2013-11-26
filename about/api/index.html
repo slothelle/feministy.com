@@ -1,0 +1,153 @@
+---
+layout: default
+title: feministy.com - Using the Ravelry API to build a website
+---
+
+<h1>
+  Building a website with the Ravelry API
+</h1>
+
+<p class="text-success">
+  A caveat about this tutorial: This isn't a "welcome to web development, this is how you do everything" type tutorial. I'm assuming that you know how to work with Ruby and are familiar with Github, the command line, APIs, JSON, HTML, CSS/Sass, and JavaScript. If any of those things are unfamiliar, you may not be able to follow all of this.
+</p>
+
+<hr>
+
+<h3>Using the API: Two Options</h3>
+
+<p>
+  Anytime you want to work with data from an API, you have a few options.
+</p>
+
+<h4>Option 1: an API call for every page load</h4>
+
+<p>
+  If the API doesn't have rate limits, like the Ravelry API, you can make an API call with every page load. The upside to this is that your data will always be up to date and you don't have to worry about manual updates. The downsides to this are numerous:
+</p>
+
+<ul>
+  <li>Your users control when your data is updated, not your server and not you</li>
+  <li>It places a potentially unnecessarily large load on Ravelry's servers</li>
+  <li>You're relying on Ravelry's servers to have just as good of an uptime as yours</li>
+  <li>It's an extra thing that has to happen before users can view your content</li>
+  <li>You have to build in safeguards to protect if the API has gone down or rejects your call</li>
+  <li>If the API is updated or changed and you weren't paying attention, your entire site is probably screwed</li>
+  <li>Your code becomes substantially more complex, and you likely need a server to run it, which increases hosting costs</li>
+</ul>
+
+<p>
+  Hitting the API with every page load is a better option when your data is changing regularly. In the case of Ravelry at a, it's not changing regularly. It only changes when I change it.
+</p>
+
+<h4>Option 2: controlled API calls</h4>
+
+<p>
+  I, personally, think that hitting an API with every page load is a little silly when the data is mostly consistent. I'm not getting data that changes willy nilly. I'm getting *my* data from Ravelry. It's data that, for the most part, I control.
+</p>
+
+<p>
+  The advantages to this are numerous:
+</p>
+
+<ul>
+  <li>I can use a static site generator to serve up all my content, like <a href="http://middlemanapp.com/">Middleman</a> or <a href="http://www.jekyllrb.com">Jekyll</a> (I use Jekyll), instead of running something on a server and using a database</li>
+  <li>It is way cheaper (potentially free) to host as a result of above ^</li>
+  <li>I can write an automated script to fetch info from the API - it can run every X hours, or I can run it manually anytime I make updates to Ravelry</li>
+  <li>I have time to adjust to API changes</li>
+  <li>I control when my data is updated, not my user</li>
+  <li>It doesn't add an extra load onto Ravelry's already very busy servers</li>
+</ul>
+
+<p>
+  The only real downside is that I have to make a choice about how my data is updated. If I have a cron job that runs every X hours, I have to keep an eye on the API documentation and make sure nothing changes. If I decide to manually run the script that updates, I'm less susceptible to changes in the API, but I also have to run it manually.
+</p>
+
+<p>
+  As far as I'm concerned, that is a sacrifice worth making. <strong>I went with Option 2.</strong>
+</p>
+
+<hr>
+
+<h3>How I did it</h3>
+
+<p>
+  The things I used to build this site are:
+</p>
+
+<ul>
+  <li>Github for version control</li>
+  <li>Hosting for free by Github pages</li>
+  <li>Jekyll for static site generation</li>
+  <li>Ravelry API for data</li>
+  <li>Several Ruby Gems to access the Ravelry API</li>
+  <li>A hook to automatically build and deploy my site after each push to Github</li>
+  <li>Twitter Bootstrap</li>
+  <li>TypeKit for fonts</li>
+</ul>
+
+<p>
+  All of the data comes from the pattern pages on Ravelry. You access this information through the API using the pattern ID from the Ravelry database. While you can search for the pattern by name using the API, the ID is much more efficient and you're guaranteed to get the correct pattern every time. The Ravelry API has no limits, so you can call on it for every page load if you wanted to and it wouldn't make too much of a difference. I don't do it that way: I make a series of batch calls to the API to get the initial data, and then I run updates periodically.
+</p>
+
+<h4>Step 1: getting the pattern ID</h4>
+<p class="well well-small pull-right">
+  If you have a lot of patterns, you may want to consider writing a
+  <a href="http://docs.seleniumhq.org/" target="_blank">Selenium</a><br>
+  driver that grabs the IDs and drops them into a yml file for you.
+</p>
+
+<p>
+  Navigate to a pattern page in Ravelry and open up the JavaScript console. Type this in: <code>$$('.difficulty').first().id</code>.
+</p>
+
+<p>
+  You should see something like this: <code>"pattern_419443_difficulty_score"</code>.
+</p>
+
+<p>
+  You'll want to add that number (<code>419443</code>) to an array or whatever other mechanism you're using to process your API call.
+</p>
+
+<h4>Step 2: figuring out what to do with your data</h4>
+
+<p>
+  My site is rendered entirely by <a href="http://jekyllrb.com">Jekyll</a>. This means that all I had to do for each pattern was create a Markdown file with the necessary information in the YML front matter. I have a <i>ton</i> of information that I want to display, so my YML is pretty intense. Beneath the YML is the formatted pattern description from Ravelry.
+</p>
+
+<script src="https://gist.github.com/feministy/a8d2d8d82bdda63ec00e.js"></script>
+
+<p>
+  For every key in my YML ("title", "price", etc), there is a value assigned to it. Some of those values are arrays that I can iterate over, so I can store more information attached to one key. The big benefit of this is that I know that all of my images are in one place in the exact order they appear on Ravelry.
+</p>
+
+<p>
+  Because I am using Jekyll, I also have a layout that uses these variables. It is pattern specific, so it doesn't confuse my blog posts or anything like that.
+</p>
+
+<script src="https://gist.github.com/feministy/2e63e85b4ed8be147914.js"></script>
+
+<h4>Step 3: calling on the API</h4>
+
+<p>
+  I do not call on the Ravelry API with every page load. Not only does that potentially slow my page load, but it relies on the Ravelry API having up time that is at least as good as my server. While that's very likely, it's an extra moving part that I can take out of the equation for every page load.
+</p>
+
+<p>
+  Ok, so I'm cheating a little here. The Ravelry API requires authentication with HTTP Basic Auth. You can use Ruby's Net:HTTP to complete these calls, but I had some trouble getting authorization to go through smoothly. Instead, I am using a <a href="https://github.com/taf2/curb" target="_blank">gem</a> that uses libcurl.
+</p>
+
+<script src="https://gist.github.com/feministy/0c75132aa8ff15dabb03.js"></script>
+
+<p>
+  For every key that I have in my YML front matter (above), there is a method in my API call that gets the data. Here are some samples of the different methods I have.
+</p>
+
+<script src="https://gist.github.com/feministy/e46cd0b933dafceef2d2.js"></script>
+
+<p>
+  I also have an entirely separate system for creating collection pages based on the information returned in the initial pattern API calls. Much of the content generated there is done in the same way: key/value pairs and static text/html/markdown.
+</p>
+
+<p>
+  So that is how it is done. I am currently in the process of writing a script that will run once every 24hrs. It will make an API call, update the files, push them to Github, and upload them to my site so the changes are live. I can also manually trigger an update for all patterns, or one specific pattern, if I so desire.
+ </p>

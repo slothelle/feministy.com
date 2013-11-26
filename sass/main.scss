@@ -1,0 +1,20 @@
+@import "variables";
+
+html, body {
+  font-family: $sans;
+}
+
+.hero-unit, h1, h2, h3, h4, h5, h6 { font-family: $serif; }
+
+.fixed-top-menu-pills {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  padding: 10px 20px;
+  background: #ffffff;
+  width: 100%;
+}
+
+.serif {
+  font-family: $serif;
+}

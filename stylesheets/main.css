@@ -1,0 +1,24 @@
+/* line 3, ../sass/main.scss */
+html, body {
+  font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+}
+
+/* line 7, ../sass/main.scss */
+.hero-unit, h1, h2, h3, h4, h5, h6 {
+  font-family: "jubilat", Georgia, serif;
+}
+
+/* line 9, ../sass/main.scss */
+.fixed-top-menu-pills {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  padding: 10px 20px;
+  background: #ffffff;
+  width: 100%;
+}
+
+/* line 18, ../sass/main.scss */
+.serif {
+  font-family: "jubilat", Georgia, serif;
+}

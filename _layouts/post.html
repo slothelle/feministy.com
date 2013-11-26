@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<h2>
+  {{ page.title }}
+  <span class="pull-right">
+    {% for category in page.categories %}
+      <span class="badge">{{ category }}</span> 
+    {% endfor %}
+  </span>
+</h2>
+
+<p class="muted">
+  {{ page.date | date: "%-d %B %Y" }}
+</p>
+
+{% if page.image %}
+  <p class="text-center">
+    <img src="{{ page.image }}" class="img-rounded">
+  </p>
+{% endif %}
+
+<div class="post">
+  {{ content }}
+</div>
+
+<br>
+<hr>
+<br>
+
+{% for image_hash in page.images %}
+  {% for image in image_hash %}
+    <ul class="thumbnails">
+      <li class="span3"></li>
+      <li class="span6">
+        <div class="thumbnail">
+          <img src="{{ image[1] }}">
+          <h5 class="text-center">{{ image[0] }}</h5>
+        </div>
+      </li>
+      <li class="span3"></li>
+    </ul>
+  {% endfor %}
+{% endfor %}

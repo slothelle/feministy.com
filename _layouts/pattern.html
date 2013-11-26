@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+
+<div class="pull-right">
+  {% for image in page.tiny_images %}
+    <p>
+      <img class="img-circle" src="{{ image }}">
+    </p>
+  {% endfor %}
+</div>
+
+<h1>
+  {{ page.title }}
+  {% if page.price %}
+    <a href="{{ page.purchase_link }}" class="btn btn-success btn-large">{{ page.price }} &bull; Buy now!</a>
+  {% endif %}
+
+  {% if page.free %}
+    <a href="{{ page.download_link }}" class="btn btn-success">Download free pattern!</a>
+  {% endif %}
+</h1>
+
+<hr>
+
+{{ content }}
+
+<hr>
+
+<h4>Pattern Information</h4>
+<div class="row">
+  <div class="span6">
+    {% include pattern_info_table.html %}
+  </div>
+  <div class="span6">
+    {% include pattern_buy.html %}
+  </div>
+</div>
+
+{% if page.collection %}
+  {% include pattern_collection_buy.html %}
+{% endif %}
+
+<hr>
+
+<h4>Photos</h4>
+<div class="text-center">
+  {% for image in page.images %}
+    <img class="img-rounded" src="{{ image }}">
+  {% endfor %}
+</div>

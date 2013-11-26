@@ -1,0 +1,28 @@
+---
+layout: pattern
+date: 2013-11-26 16:36:08
+ravelry_permalink: 'http://www.ravelry.com/patterns/library/maeby'
+title: "Maeby"
+categories: ["socks", "pattern", "funke"]
+needles: 'US 1  - 2.25 mm'
+sizes: ["Women's small and large"]
+yarns: 'Little Red Bicycle Hipster sock (Fingering)'
+yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
+yardage_description: '300 - 400 yards'
+gauge: 'stockinette'
+gauge_description: '32 stitches and 36 rows = 4 inches in stockinette'
+images: ["http://farm5.static.flickr.com/4107/5212881636_15875b016e.jpg", "http://farm6.static.flickr.com/5206/5212282977_e65328d30d.jpg", "http://farm5.static.flickr.com/4103/5212283103_b12795cdcd.jpg"]
+tiny_images: ["http://farm5.static.flickr.com/4107/5212881636_15875b016e_s.jpg", "http://farm6.static.flickr.com/5206/5212282977_e65328d30d_s.jpg", "http://farm5.static.flickr.com/4103/5212283103_b12795cdcd_s.jpg"]
+image: 'http://farm5.static.flickr.com/4107/5212881636_15875b016e_s.jpg'
+price: '$5.00'
+purchase_link: 'http://www.ravelry.com/purchase/feministy/14716'
+collection: 'Fünke Socks'
+collection_purchase_link: http://www.ravelry.com/purchase/feministy/50578 
+collection_price: $12.00 
+collection_permalink: funke-socks 
+---
+<p>A sock pattern inspired by Maeby Fünke of Arrested Development fame, and designed specially with brightly variegated yarns in mind. The delightful mix of increases and decreases gives you the look of mock cables, without all of the extra work. Not too many holes, so it keeps your feet nice and cozy.</p>
+
+<p>It’s a fairly simple pattern, but truly delightful. Being an owner of so many different brightly variegated yarns, I wanted to design something that worked well with them and looked nice with a little consistent pooling. I know, I know, some people think pooling is evil. But really, could you honestly tell me that’s ugly pooling and mean it? I think it goes well with brightly colored yarns, but it would also bring out the slight differences in darker toned semi-solids as well.</p>
+
+<p>Maeby is one of three patterns bundled together in the <a href='http://www.ravelry.com/patterns/sources/funke-socks'>Fünke Socks collection, available as a set for $12</a>.</p>

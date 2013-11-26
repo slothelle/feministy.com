@@ -1,0 +1,8 @@
+{% if page.price %}
+  <p><a href="#{{ page.purchase_link }}" class="btn btn-success">{{ page.price}} &bull; Buy {{ page.title }} now!</a></p>
+  <p><a href="#modalPurchaseInfo" role="button" class="btn" data-toggle="modal">Pattern Purchase FAQ</a></p>
+{% endif %}
+{% if page.free %}
+  <p><a href="{{ page.download_link }}" class="btn">Download free pattern!</a></p>
+{% endif %}
+<p><a href="{{ page.ravelry_permalink }}" class="btn">View on Ravelry</a></p>
