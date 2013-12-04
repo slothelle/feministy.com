@@ -1,0 +1,38 @@
+---
+layout: default
+title: 'feministy.com - Tutorials'
+---
+
+<h1>Tutorials</h1>
+
+
+<p>
+  This page contains an up-to-date list of all the tutorials available on my site. They are sorted by date posted with the most recent tutorials on top. Enjoy!
+</p>
+
+<table class="table table-striped">
+  <thead>
+    <th>Tutorial Title</th>
+    <th>Categories</th>
+    <th>Date</th>
+  </thead>
+  <tbody>
+    {% for post in site.categories.tutorials %}
+      <tr>
+        <td class="text-center">
+          <h4>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </h4>
+        </td>
+        <td>
+          <p>{{ post.categories | array_to_sentence_string}}</p>
+        </td>
+        <td class="text-center">
+          <p class="muted">
+            {{ post.date | date: "%B %-d, %Y" }}
+          </p>
+        </td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
