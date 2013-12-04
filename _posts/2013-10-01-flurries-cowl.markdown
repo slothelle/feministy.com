@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:28
+date: 2013-12-04 10:22:52
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/flurries-cowl'
 title: "Flurries Cowl"
 categories: ["shawls", "pattern"]
@@ -12,9 +12,9 @@ yarn_weight_description: 'Sport / 5 ply (12 wpi)'
 yardage_description: '200 - 230 yards'
 gauge: 'Stockinette stitch, smaller needle'
 gauge_description: '24 stitches and 32 rows = 4 inches in Stockinette stitch, smaller needle'
-images: ["http://images4-d.ravelrycache.com/uploads/feministy/91010100/_D7C4070_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/91010153/_D7C4101_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/91010118/_D7C4086_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/91010186/_D7C4117_medium.jpg"]
-tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/91010100/_D7C4070_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/91010153/_D7C4101_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/91010118/_D7C4086_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/91010186/_D7C4117_square.jpg"]
-image: 'http://images4-d.ravelrycache.com/uploads/feministy/91010100/_D7C4070_square.jpg'
+images: ["http://images4.ravelrycache.com/uploads/feministy/91010153/_D7C4101_medium.jpg", "http://images4-d.ravelrycache.com/uploads/GabiVarga/134411804/PC100044_medium.JPG", "http://images4-b.ravelrycache.com/uploads/feministy/91010100/_D7C4070_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/91010118/_D7C4086_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/91010186/_D7C4117_medium.jpg"]
+tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/91010153/_D7C4101_square.jpg", "http://images4-b.ravelrycache.com/uploads/GabiVarga/134411804/PC100044_square.JPG", "http://images4.ravelrycache.com/uploads/feministy/91010100/_D7C4070_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/91010118/_D7C4086_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/91010186/_D7C4117_square.jpg"]
+image: 'http://images4-d.ravelrycache.com/uploads/feministy/91010153/_D7C4101_square.jpg'
 free: yes
 download_link: http://www.ravelry.com/dls/3244/90944
 ---

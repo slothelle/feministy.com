@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:21
+date: 2013-12-04 10:22:48
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/any-yarn-scarf'
 title: "Any Yarn Scarf"
 categories: ["scarf", "pattern"]
@@ -11,8 +11,8 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '350 - 400 yards'
 gauge: 'garter stitch'
 gauge_description: '20 stitches and 30 rows = 4 inches in garter stitch'
-images: ["http://images4-b.ravelrycache.com/uploads/feministy/55072825/styled_medium.jpg", "http://images4-d.ravelrycache.com/uploads/christinelord/58709336/DSCN3941_medium.JPG", "http://farm5.static.flickr.com/4096/5608088292_f2db1a9038.jpg", "http://farm6.static.flickr.com/5185/5607507091_202c2d1999.jpg", "http://farm6.static.flickr.com/5182/5607509829_c74e7f4874.jpg", "http://farm6.static.flickr.com/5067/5608086238_81900cc611.jpg"]
-tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/55072825/styled_square.jpg", "http://images4-b.ravelrycache.com/uploads/christinelord/58709336/DSCN3941_square.JPG", "http://farm5.static.flickr.com/4096/5608088292_f2db1a9038_s.jpg", "http://farm6.static.flickr.com/5185/5607507091_202c2d1999_s.jpg", "http://farm6.static.flickr.com/5182/5607509829_c74e7f4874_s.jpg", "http://farm6.static.flickr.com/5067/5608086238_81900cc611_s.jpg"]
+images: ["http://images4.ravelrycache.com/uploads/feministy/55072825/styled_medium.jpg", "http://images4-b.ravelrycache.com/uploads/christinelord/58709336/DSCN3941_medium.JPG", "http://farm5.static.flickr.com/4096/5608088292_f2db1a9038.jpg", "http://farm6.static.flickr.com/5185/5607507091_202c2d1999.jpg", "http://farm6.static.flickr.com/5182/5607509829_c74e7f4874.jpg", "http://farm6.static.flickr.com/5067/5608086238_81900cc611.jpg"]
+tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/55072825/styled_square.jpg", "http://images4-d.ravelrycache.com/uploads/christinelord/58709336/DSCN3941_square.JPG", "http://farm5.static.flickr.com/4096/5608088292_f2db1a9038_s.jpg", "http://farm6.static.flickr.com/5185/5607507091_202c2d1999_s.jpg", "http://farm6.static.flickr.com/5182/5607509829_c74e7f4874_s.jpg", "http://farm6.static.flickr.com/5067/5608086238_81900cc611_s.jpg"]
 image: 'http://images4-b.ravelrycache.com/uploads/feministy/55072825/styled_square.jpg'
 free: yes
 download_link: http://www.ravelry.com/dls/3244/58828
@@ -30,11 +30,19 @@ download_link: http://www.ravelry.com/dls/3244/58828
 <p><strong>Changing Yarn Weight &amp; Needle Size</strong></p>
 
 <p>You can use any yarn weight for this pattern. Using a scale makes it easy if you have one ball of yarn to work with. If you’re working with two balls, it’s even easier! Use one for your increases and the other for your decreases. I would recommend using a needle several sizes larger than called for to obtain a soft drape for the yarn.</p>
+
+<p><strong>Note</strong></p>
+
+<p>PDF version 2 does not have charts. PDF v1b has charts. Both are available for download.</p>
 <hr />
 <p><strong>Errata</strong></p>
 
-<p>Error in PDF version 1. Corrected in PDF version 1b.</p>
+<p>Error in PDF version 1:</p>
 
-<p>After the set-up rows, you should have 30 stitches, not 29.</p>
+<ul>
+<li>After the set-up rows, you should have 30 stitches, not 29.</li>
 
-<p>The edge section for Row 1 should be: k2tog, k1, yo, ssk, yo, slm.</p>
+<li>The edge section for Row 1 should be: k2tog, k1, yo, ssk, yo, slm.</li>
+</ul>
+
+<p>Both errors have been corrected in PDF version 2.</p>

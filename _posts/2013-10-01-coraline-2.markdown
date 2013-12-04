@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:09
+date: 2013-12-04 10:22:40
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/coraline-2'
 title: "Coraline"
 categories: ["socks", "pattern"]
@@ -17,7 +17,7 @@ images: ["http://farm4.static.flickr.com/3137/3288098943_feeeb37475.jpg", "http:
 tiny_images: ["http://farm4.static.flickr.com/3137/3288098943_feeeb37475_s.jpg", "http://farm4.static.flickr.com/3348/3288916348_148821fa6e_s.jpg", "http://farm4.static.flickr.com/3373/3288098467_cc9667bcfb_s.jpg", "http://farm4.static.flickr.com/3169/3288915808_a47c73fc7d_s.jpg"]
 image: 'http://farm4.static.flickr.com/3137/3288098943_feeeb37475_s.jpg'
 free: yes
-download_link: http://feministy.com/blog/coraline/
+download_link: http://www.ravelry.com/dls/3244/185687
 ---
 <p>This is a sock I think Coraline would wear. She’s a resourceful girl who isn’t afraid of adventures. She’s smart, witty, and brave. If Coraline were a knitter, I think she’d definitely find uses for all of her scrap yarn and make something more beautiful than this.</p>
 

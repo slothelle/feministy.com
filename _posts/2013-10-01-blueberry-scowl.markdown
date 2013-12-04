@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:31
+date: 2013-12-04 10:22:54
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/blueberry-scowl'
 title: "Blueberry Scowl"
 categories: ["shawls", "pattern", "great"]
@@ -11,8 +11,8 @@ yarn_weight_description: 'Worsted / 10 ply (9 wpi)'
 yardage_description: '400 - 430 yards'
 gauge: 'stockinette stitch'
 gauge_description: '20 stitches and 24 rows = 4 inches in stockinette stitch'
-images: ["http://images4-b.ravelrycache.com/uploads/feministy/95942067/d7c3982_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/95942049/d7c3902_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/95942089/d7c4122_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/95942119/d7c3873_medium.jpg"]
-tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/95942067/d7c3982_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/95942049/d7c3902_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/95942089/d7c4122_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/95942119/d7c3873_square.jpg"]
+images: ["http://images4-b.ravelrycache.com/uploads/feministy/95942067/d7c3982_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/95942049/d7c3902_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/95942089/d7c4122_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/95942119/d7c3873_medium.jpg"]
+tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/95942067/d7c3982_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/95942049/d7c3902_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/95942089/d7c4122_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/95942119/d7c3873_square.jpg"]
 image: 'http://images4-b.ravelrycache.com/uploads/feministy/95942067/d7c3982_square.jpg'
 price: '$6.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/95379'

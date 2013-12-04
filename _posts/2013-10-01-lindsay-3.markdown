@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:18
+date: 2013-12-04 10:22:45
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/lindsay-3'
 title: "Lindsay"
 categories: ["socks", "pattern", "funke"]
@@ -11,7 +11,7 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: ' yards'
 gauge: 'stockinette'
 gauge_description: '32 stitches and 36 rows = 4 inches in stockinette'
-images: ["http://images4-d.ravelrycache.com/uploads/feministy/45527808/foot-wm_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45527751/leg-wm_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45527861/back-wm_medium.jpg"]
+images: ["http://images4-b.ravelrycache.com/uploads/feministy/45527808/foot-wm_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45527751/leg-wm_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45527861/back-wm_medium.jpg"]
 tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/45527808/foot-wm_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45527751/leg-wm_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/45527861/back-wm_square.jpg"]
 image: 'http://images4-b.ravelrycache.com/uploads/feministy/45527808/foot-wm_square.jpg'
 price: '$5.00'

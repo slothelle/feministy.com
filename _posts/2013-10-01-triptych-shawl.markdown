@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:30
+date: 2013-12-04 10:22:53
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/triptych-shawl'
 title: "Triptych Shawl"
 categories: ["shawls", "pattern"]
@@ -11,8 +11,8 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '400 - 420 yards'
 gauge: 'Stockinette stitch'
 gauge_description: '22 stitches and 26 rows = 4 inches in Stockinette stitch'
-images: ["http://images4-d.ravelrycache.com/uploads/feministy/94789963/_D7C4141_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/94789940/_D7C4139_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/94789897/_D7C4133_medium.jpg"]
-tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/94789963/_D7C4141_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/94789940/_D7C4139_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/94789897/_D7C4133_square.jpg"]
+images: ["http://images4-b.ravelrycache.com/uploads/feministy/94789963/_D7C4141_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/94789940/_D7C4139_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/94789897/_D7C4133_medium.jpg"]
+tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/94789963/_D7C4141_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/94789940/_D7C4139_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/94789897/_D7C4133_square.jpg"]
 image: 'http://images4-d.ravelrycache.com/uploads/feministy/94789963/_D7C4141_square.jpg'
 price: '$6.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/109287'

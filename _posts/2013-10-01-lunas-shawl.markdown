@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:20
+date: 2013-12-04 10:22:47
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/lunas-shawl'
 title: "Luna's Shawl"
 categories: ["shawls", "pattern"]
@@ -12,9 +12,9 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '335 - 430 yards'
 gauge: 'fingering weight, stockinette (varies, see description for desired yarn weight)'
 gauge_description: '20 stitches and 28 rows = 4 inches in fingering weight, stockinette (varies, see description for desired yarn weight)'
-images: ["http://farm6.static.flickr.com/5300/5569178667_77330d0dd6.jpg", "http://farm6.static.flickr.com/5137/5569179559_457f1c4a9f.jpg", "http://farm6.static.flickr.com/5058/5569179803_e8ecf614cd.jpg", "http://farm5.static.flickr.com/4149/5443058476_501d502436.jpg", "http://farm6.static.flickr.com/5211/5443058826_70fa2e53e1.jpg", "http://farm5.static.flickr.com/4135/5442454423_d00faac719.jpg", "http://farm5.static.flickr.com/4097/5442454351_047aa4987e.jpg", "http://farm6.static.flickr.com/5104/5569179205_346b0f42c0.jpg"]
-tiny_images: ["http://farm6.static.flickr.com/5300/5569178667_77330d0dd6_s.jpg", "http://farm6.static.flickr.com/5137/5569179559_457f1c4a9f_s.jpg", "http://farm6.static.flickr.com/5058/5569179803_e8ecf614cd_s.jpg", "http://farm5.static.flickr.com/4149/5443058476_501d502436_s.jpg", "http://farm6.static.flickr.com/5211/5443058826_70fa2e53e1_s.jpg", "http://farm5.static.flickr.com/4135/5442454423_d00faac719_s.jpg", "http://farm5.static.flickr.com/4097/5442454351_047aa4987e_s.jpg", "http://farm6.static.flickr.com/5104/5569179205_346b0f42c0_s.jpg"]
-image: 'http://farm6.static.flickr.com/5300/5569178667_77330d0dd6_s.jpg'
+images: ["http://farm5.static.flickr.com/4149/5443058476_501d502436.jpg", "http://farm6.static.flickr.com/5300/5569178667_77330d0dd6.jpg", "http://farm6.static.flickr.com/5137/5569179559_457f1c4a9f.jpg", "http://farm6.static.flickr.com/5058/5569179803_e8ecf614cd.jpg", "http://farm6.static.flickr.com/5211/5443058826_70fa2e53e1.jpg", "http://farm5.static.flickr.com/4135/5442454423_d00faac719.jpg", "http://farm5.static.flickr.com/4097/5442454351_047aa4987e.jpg", "http://farm6.static.flickr.com/5104/5569179205_346b0f42c0.jpg"]
+tiny_images: ["http://farm5.static.flickr.com/4149/5443058476_501d502436_s.jpg", "http://farm6.static.flickr.com/5300/5569178667_77330d0dd6_s.jpg", "http://farm6.static.flickr.com/5137/5569179559_457f1c4a9f_s.jpg", "http://farm6.static.flickr.com/5058/5569179803_e8ecf614cd_s.jpg", "http://farm6.static.flickr.com/5211/5443058826_70fa2e53e1_s.jpg", "http://farm5.static.flickr.com/4135/5442454423_d00faac719_s.jpg", "http://farm5.static.flickr.com/4097/5442454351_047aa4987e_s.jpg", "http://farm6.static.flickr.com/5104/5569179205_346b0f42c0_s.jpg"]
+image: 'http://farm5.static.flickr.com/4149/5443058476_501d502436_s.jpg'
 price: '$6.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/58133'
 ---
@@ -42,4 +42,4 @@ purchase_link: 'http://www.ravelry.com/purchase/feministy/58133'
 <hr />
 <p><strong>Errata</strong></p>
 
-<p>There is a series of typos in the second table, it shows even numbers starting at 50 when it should be showing odd numbers starting at 49.</p>
+<p>Version 3: There is a series of typos in the second table, it shows even numbers starting at 50 when it should be showing odd numbers starting at 49. This error has been corrected in version 4.</p>

@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:32
+date: 2013-12-04 10:22:55
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/lancet-shawl'
 title: "Lancet Shawl"
 categories: ["shawls", "pattern", "arch"]

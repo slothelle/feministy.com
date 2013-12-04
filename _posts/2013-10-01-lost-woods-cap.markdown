@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:26
+date: 2013-12-04 10:22:50
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/lost-woods-cap'
 title: "Lost Woods Cap"
 categories: ["hat", "pattern", "fairy"]
@@ -12,8 +12,8 @@ yarn_weight_description: 'Worsted / 10 ply (9 wpi)'
 yardage_description: '120 - 180 yards'
 gauge: 'unstretched 2x2 ribbing'
 gauge_description: '24 stitches and 28 rows = 4 inches in unstretched 2x2 ribbing'
-images: ["http://farm7.static.flickr.com/6200/6033686044_c2d9efe1b5.jpg", "http://farm7.static.flickr.com/6194/6033128379_a1b62ff5b4.jpg", "http://farm7.static.flickr.com/6131/6033128517_9ee353d2eb.jpg", "http://farm7.static.flickr.com/6195/6033686296_89c63d4106.jpg"]
-tiny_images: ["http://farm7.static.flickr.com/6200/6033686044_c2d9efe1b5_s.jpg", "http://farm7.static.flickr.com/6194/6033128379_a1b62ff5b4_s.jpg", "http://farm7.static.flickr.com/6131/6033128517_9ee353d2eb_s.jpg", "http://farm7.static.flickr.com/6195/6033686296_89c63d4106_s.jpg"]
+images: ["http://farm7.static.flickr.com/6200/6033686044_c2d9efe1b5.jpg", "http://farm8.static.flickr.com/7232/7312935900_7b1f4739cc.jpg", "http://farm7.static.flickr.com/6194/6033128379_a1b62ff5b4.jpg", "http://farm7.static.flickr.com/6131/6033128517_9ee353d2eb.jpg", "http://farm7.static.flickr.com/6195/6033686296_89c63d4106.jpg"]
+tiny_images: ["http://farm7.static.flickr.com/6200/6033686044_c2d9efe1b5_s.jpg", "http://farm8.static.flickr.com/7232/7312935900_7b1f4739cc_s.jpg", "http://farm7.static.flickr.com/6194/6033128379_a1b62ff5b4_s.jpg", "http://farm7.static.flickr.com/6131/6033128517_9ee353d2eb_s.jpg", "http://farm7.static.flickr.com/6195/6033686296_89c63d4106_s.jpg"]
 image: 'http://farm7.static.flickr.com/6200/6033686044_c2d9efe1b5_s.jpg'
 price: '$6.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/73362'

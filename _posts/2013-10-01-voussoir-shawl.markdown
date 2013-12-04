@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:34
+date: 2013-12-04 10:22:56
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/voussoir-shawl'
 title: "Voussoir Shawl"
 categories: ["shawls", "pattern", "arch"]
@@ -11,9 +11,9 @@ yarn_weight_description: 'DK / 8 ply (11 wpi)'
 yardage_description: '440 - 460 yards'
 gauge: 'stockinette stitch'
 gauge_description: '16 stitches and 22 rows = 4 inches in stockinette stitch'
-images: ["http://images4-b.ravelrycache.com/uploads/feministy/100097410/_D7C5554_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/100097368/_D7C2182_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/100097443/_D7C5556_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/100097505/_D7C5567_medium.jpg"]
-tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/100097410/_D7C5554_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/100097368/_D7C2182_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/100097443/_D7C5556_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/100097505/_D7C5567_square.jpg"]
-image: 'http://images4-b.ravelrycache.com/uploads/feministy/100097410/_D7C5554_square.jpg'
+images: ["http://images4-b.ravelrycache.com/uploads/feministy/100097410/_D7C5554_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/100097368/_D7C2182_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/100097443/_D7C5556_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/100097505/_D7C5567_medium.jpg"]
+tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/100097410/_D7C5554_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/100097368/_D7C2182_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/100097443/_D7C5556_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/100097505/_D7C5567_square.jpg"]
+image: 'http://images4-d.ravelrycache.com/uploads/feministy/100097410/_D7C5554_square.jpg'
 price: '$6.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/99240'
 collection: 'Arch Shawls'

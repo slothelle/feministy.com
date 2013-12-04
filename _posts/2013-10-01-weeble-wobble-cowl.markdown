@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:29
+date: 2013-12-04 10:22:52
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/weeble-wobble-cowl'
 title: "Weeble Wobble Cowl"
 categories: ["shawls", "pattern", "great"]
@@ -11,9 +11,9 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '380 - 420 yards'
 gauge: 'Stockinette stitch'
 gauge_description: '22 stitches and 34 rows = 4 inches in Stockinette stitch'
-images: ["http://images4-b.ravelrycache.com/uploads/feministy/93224793/d7c3755_medium.jpg", "http://farm8.static.flickr.com/7201/6937368579_82df6b2e55.jpg", "http://farm8.static.flickr.com/7188/6791089474_9acafb0732.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/93224867/d7c3774_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/93224908/d7c3830_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/93224955/d7c4114_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/93224988/d7c4116_medium.jpg"]
-tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/93224793/d7c3755_square.jpg", "http://farm8.static.flickr.com/7201/6937368579_82df6b2e55_s.jpg", "http://farm8.static.flickr.com/7188/6791089474_9acafb0732_s.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/93224867/d7c3774_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/93224908/d7c3830_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/93224955/d7c4114_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/93224988/d7c4116_square.jpg"]
-image: 'http://images4-d.ravelrycache.com/uploads/feministy/93224793/d7c3755_square.jpg'
+images: ["http://images4-d.ravelrycache.com/uploads/feministy/93224793/d7c3755_medium.jpg", "http://farm8.static.flickr.com/7201/6937368579_82df6b2e55.jpg", "http://farm8.static.flickr.com/7188/6791089474_9acafb0732.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/93224867/d7c3774_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/93224908/d7c3830_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/93224955/d7c4114_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/93224988/d7c4116_medium.jpg"]
+tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/93224793/d7c3755_square.jpg", "http://farm8.static.flickr.com/7201/6937368579_82df6b2e55_s.jpg", "http://farm8.static.flickr.com/7188/6791089474_9acafb0732_s.jpg", "http://images4.ravelrycache.com/uploads/feministy/93224867/d7c3774_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/93224908/d7c3830_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/93224955/d7c4114_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/93224988/d7c4116_square.jpg"]
+image: 'http://images4-b.ravelrycache.com/uploads/feministy/93224793/d7c3755_square.jpg'
 price: '$6.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/93009'
 collection: 'The Great Cowl KAL'

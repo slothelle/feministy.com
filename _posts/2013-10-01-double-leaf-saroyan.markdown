@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:27
+date: 2013-12-04 10:22:51
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/double-leaf-saroyan'
 title: "Double Leaf Saroyan"
 categories: ["scarf", "pattern"]
@@ -11,8 +11,8 @@ yarn_weight_description: 'Worsted / 10 ply (9 wpi)'
 yardage_description: '400 - 420 yards'
 gauge: 'stockinette'
 gauge_description: '16 stitches and 20 rows = 4 inches in stockinette'
-images: ["http://farm7.static.flickr.com/6068/6117094399_7a47a60229.jpg", "http://farm7.static.flickr.com/6082/6117639344_2a6d7546bb.jpg", "http://farm7.static.flickr.com/6072/6117639490_af0522d49a.jpg"]
-tiny_images: ["http://farm7.static.flickr.com/6068/6117094399_7a47a60229_s.jpg", "http://farm7.static.flickr.com/6082/6117639344_2a6d7546bb_s.jpg", "http://farm7.static.flickr.com/6072/6117639490_af0522d49a_s.jpg"]
+images: ["http://farm7.static.flickr.com/6068/6117094399_7a47a60229.jpg", "http://images4-d.ravelrycache.com/uploads/jlforbess/94612351/DSC_0059_medium.JPG", "http://images4-b.ravelrycache.com/uploads/MissKerstin/178848533/DSCF0089_medium.JPG", "http://farm7.static.flickr.com/6082/6117639344_2a6d7546bb.jpg", "http://farm7.static.flickr.com/6072/6117639490_af0522d49a.jpg"]
+tiny_images: ["http://farm7.static.flickr.com/6068/6117094399_7a47a60229_s.jpg", "http://images4.ravelrycache.com/uploads/jlforbess/94612351/DSC_0059_square.JPG", "http://images4-b.ravelrycache.com/uploads/MissKerstin/178848533/DSCF0089_square.JPG", "http://farm7.static.flickr.com/6082/6117639344_2a6d7546bb_s.jpg", "http://farm7.static.flickr.com/6072/6117639490_af0522d49a_s.jpg"]
 image: 'http://farm7.static.flickr.com/6068/6117094399_7a47a60229_s.jpg'
 free: yes
 download_link: http://www.ravelry.com/dls/3244/75529

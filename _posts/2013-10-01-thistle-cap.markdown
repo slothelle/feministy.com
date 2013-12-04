@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:28
+date: 2013-12-04 10:22:52
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/thistle-cap'
 title: "Thistle Cap"
 categories: ["child", "pattern"]
@@ -12,9 +12,9 @@ yarn_weight_description: 'Aran / 10 ply (8 wpi)'
 yardage_description: '100 - 180 yards'
 gauge: '2×2 ribbing unstretched'
 gauge_description: '18 stitches and 26 rows = 4 inches in 2×2 ribbing unstretched'
-images: ["http://images4-b.ravelrycache.com/uploads/feministy/83359835/wm-liz_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/83359793/wm-colin_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/83359868/wm-side_medium.jpg"]
-tiny_images: ["http://images4.ravelrycache.com/uploads/feministy/83359835/wm-liz_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/83359793/wm-colin_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/83359868/wm-side_square.jpg"]
-image: 'http://images4.ravelrycache.com/uploads/feministy/83359835/wm-liz_square.jpg'
+images: ["http://images4-d.ravelrycache.com/uploads/feministy/83359835/wm-liz_medium.jpg", "http://images4-b.ravelrycache.com/uploads/DuchessOfYarnover/95500186/021_medium.JPG", "http://farm8.static.flickr.com/7013/6790184949_8d0e82a4aa.jpg", "http://farm8.static.flickr.com/7013/6790184949_8d0e82a4aa.jpg", "http://images4.ravelrycache.com/uploads/suskunen/90652752/pipo2_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/83359793/wm-colin_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/83359868/wm-side_medium.jpg"]
+tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/83359835/wm-liz_square.jpg", "http://images4-b.ravelrycache.com/uploads/DuchessOfYarnover/95500186/021_square.JPG", "http://farm8.static.flickr.com/7013/6790184949_8d0e82a4aa_s.jpg", "http://farm8.static.flickr.com/7013/6790184949_8d0e82a4aa_s.jpg", "http://images4.ravelrycache.com/uploads/suskunen/90652752/pipo2_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/83359793/wm-colin_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/83359868/wm-side_square.jpg"]
+image: 'http://images4-b.ravelrycache.com/uploads/feministy/83359835/wm-liz_square.jpg'
 price: '$3.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/85136'
 ---

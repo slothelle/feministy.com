@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:33
+date: 2013-12-04 10:22:56
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/like-honey-cowl'
 title: "Like Honey Cowl"
 categories: ["shawls", "pattern", "great"]
@@ -11,9 +11,9 @@ yarn_weight_description: 'DK / 8 ply (11 wpi)'
 yardage_description: '240 - 260 yards'
 gauge: 'stockinette stitch'
 gauge_description: '16 stitches and 24 rows = 4 inches in stockinette stitch'
-images: ["http://images4-b.ravelrycache.com/uploads/feministy/99123854/_D7C5606_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/99123985/_D7C5574_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/99123926/_D7C5573_medium.jpg"]
-tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/99123854/_D7C5606_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/99123985/_D7C5574_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/99123926/_D7C5573_square.jpg"]
-image: 'http://images4-b.ravelrycache.com/uploads/feministy/99123854/_D7C5606_square.jpg'
+images: ["http://images4.ravelrycache.com/uploads/feministy/99123854/_D7C5606_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/99123985/_D7C5574_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/99123926/_D7C5573_medium.jpg"]
+tiny_images: ["http://images4.ravelrycache.com/uploads/feministy/99123854/_D7C5606_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/99123985/_D7C5574_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/99123926/_D7C5573_square.jpg"]
+image: 'http://images4.ravelrycache.com/uploads/feministy/99123854/_D7C5606_square.jpg'
 price: '$6.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/98433'
 collection: 'The Great Cowl KAL'

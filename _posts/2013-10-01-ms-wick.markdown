@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-11-26 16:36:17
+date: 2013-12-04 10:22:44
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/ms-wick'
 title: "Ms. Wick"
 categories: ["socks", "pattern"]
@@ -11,9 +11,9 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '350 - 450 yards'
 gauge: 'stockinette'
 gauge_description: '28 stitches and 32 rows = 4 inches in stockinette'
-images: ["http://images4-d.ravelrycache.com/uploads/feministy/45104768/foot-watermark_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/45105015/leg-watermark_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/45104712/blocker-watermark_medium.jpg"]
-tiny_images: ["http://images4.ravelrycache.com/uploads/feministy/45104768/foot-watermark_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/45105015/leg-watermark_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45104712/blocker-watermark_square.jpg"]
-image: 'http://images4.ravelrycache.com/uploads/feministy/45104768/foot-watermark_square.jpg'
+images: ["http://images4-b.ravelrycache.com/uploads/feministy/45104768/foot-watermark_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45105015/leg-watermark_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/45104712/blocker-watermark_medium.jpg"]
+tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/45104768/foot-watermark_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45105015/leg-watermark_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/45104712/blocker-watermark_square.jpg"]
+image: 'http://images4-d.ravelrycache.com/uploads/feministy/45104768/foot-watermark_square.jpg'
 price: '$5.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/50142'
 ---
