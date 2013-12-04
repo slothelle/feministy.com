@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:59
+date: 2013-12-04 12:11:21
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/volatile-magic-shawl'
 title: "Volatile Magic Shawl"
 categories: ["shawls", "pattern"]

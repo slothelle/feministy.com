@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:52
+date: 2013-12-04 12:11:14
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/weeble-wobble-cowl'
 title: "Weeble Wobble Cowl"
 categories: ["shawls", "pattern", "great"]

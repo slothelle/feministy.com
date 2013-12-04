@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:55
+date: 2013-12-04 12:11:17
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/squinch-shawl'
 title: "Squinch Shawl"
 categories: ["shawls", "pattern", "arch"]
@@ -12,9 +12,9 @@ yarn_weight_description: 'Sport / 5 ply (12 wpi)'
 yardage_description: '335 yards'
 gauge: 'stockinette stitch'
 gauge_description: '18 stitches and 26 rows = 4 inches in stockinette stitch'
-images: ["http://images4.ravelrycache.com/uploads/feministy/98904504/_D7C5546_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/98904445/_D7C2237_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/98904474/_D7C2255_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/98904527/_D7C5550_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/98904563/_D7C5562_medium.jpg"]
-tiny_images: ["http://images4.ravelrycache.com/uploads/feministy/98904504/_D7C5546_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/98904445/_D7C2237_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/98904474/_D7C2255_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/98904527/_D7C5550_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/98904563/_D7C5562_square.jpg"]
-image: 'http://images4.ravelrycache.com/uploads/feministy/98904504/_D7C5546_square.jpg'
+images: ["http://images4.ravelrycache.com/uploads/feministy/98904504/_D7C5546_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/98904445/_D7C2237_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/98904474/_D7C2255_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/98904527/_D7C5550_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/98904563/_D7C5562_medium.jpg"]
+tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/98904504/_D7C5546_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/98904445/_D7C2237_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/98904474/_D7C2255_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/98904527/_D7C5550_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/98904563/_D7C5562_square.jpg"]
+image: 'http://images4-b.ravelrycache.com/uploads/feministy/98904504/_D7C5546_square.jpg'
 price: '$6.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/98271'
 collection: 'Arch Shawls'

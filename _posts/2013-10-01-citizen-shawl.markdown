@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:43
+date: 2013-12-04 12:11:02
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/citizen-shawl'
 title: "Citizen Shawl"
 categories: ["shawls", "pattern"]
@@ -11,8 +11,8 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '440 - 500 yards'
 gauge: 'stockinette'
 gauge_description: '20 stitches and 30 rows = 4 inches in stockinette'
-images: ["http://farm6.static.flickr.com/5048/5242658735_67d82e2529.jpg", "http://farm6.static.flickr.com/5161/5242658777_76fd3c9276.jpg", "http://farm6.static.flickr.com/5081/5242658519_cf049d2949.jpg", "http://farm6.static.flickr.com/5287/5243253090_f6ed896a56.jpg", "http://farm6.static.flickr.com/5204/5242658573_b277b896ba.jpg", "http://images4-d.ravelrycache.com/uploads/MariaO/42356414/dsc01634_medium.jpg", "http://images4.ravelrycache.com/uploads/MariaO/42356386/dsc01602_medium.jpg"]
-tiny_images: ["http://farm6.static.flickr.com/5048/5242658735_67d82e2529_s.jpg", "http://farm6.static.flickr.com/5161/5242658777_76fd3c9276_s.jpg", "http://farm6.static.flickr.com/5081/5242658519_cf049d2949_s.jpg", "http://farm6.static.flickr.com/5287/5243253090_f6ed896a56_s.jpg", "http://farm6.static.flickr.com/5204/5242658573_b277b896ba_s.jpg", "http://images4.ravelrycache.com/uploads/MariaO/42356414/dsc01634_square.jpg", "http://images4-d.ravelrycache.com/uploads/MariaO/42356386/dsc01602_square.jpg"]
+images: ["http://farm6.static.flickr.com/5048/5242658735_67d82e2529.jpg", "http://farm6.static.flickr.com/5161/5242658777_76fd3c9276.jpg", "http://farm6.static.flickr.com/5081/5242658519_cf049d2949.jpg", "http://farm6.static.flickr.com/5287/5243253090_f6ed896a56.jpg", "http://farm6.static.flickr.com/5204/5242658573_b277b896ba.jpg", "http://images4-b.ravelrycache.com/uploads/MariaO/42356414/dsc01634_medium.jpg", "http://images4-b.ravelrycache.com/uploads/MariaO/42356386/dsc01602_medium.jpg"]
+tiny_images: ["http://farm6.static.flickr.com/5048/5242658735_67d82e2529_s.jpg", "http://farm6.static.flickr.com/5161/5242658777_76fd3c9276_s.jpg", "http://farm6.static.flickr.com/5081/5242658519_cf049d2949_s.jpg", "http://farm6.static.flickr.com/5287/5243253090_f6ed896a56_s.jpg", "http://farm6.static.flickr.com/5204/5242658573_b277b896ba_s.jpg", "http://images4.ravelrycache.com/uploads/MariaO/42356414/dsc01634_square.jpg", "http://images4-b.ravelrycache.com/uploads/MariaO/42356386/dsc01602_square.jpg"]
 image: 'http://farm6.static.flickr.com/5048/5242658735_67d82e2529_s.jpg'
 price: '$5.50'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/43489'

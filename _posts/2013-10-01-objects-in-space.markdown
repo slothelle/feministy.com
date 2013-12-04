@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:42
+date: 2013-12-04 12:10:59
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/objects-in-space'
 title: "Objects in Space"
 categories: ["scarf", "pattern"]

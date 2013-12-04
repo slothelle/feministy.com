@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:40
+date: 2013-12-04 12:10:55
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/hey-jupiter'
 title: "Hey Jupiter"
 categories: ["socks", "pattern"]

@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:46
+date: 2013-12-04 12:11:06
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/traveling-scarf-2'
 title: "Traveling Scarf"
 categories: ["scarf", "pattern", "traveling"]

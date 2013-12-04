@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:48
+date: 2013-12-04 12:11:08
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/roxanne-mystery-shawl'
 title: "Roxanne Mystery Shawl"
 categories: ["shawls", "pattern"]
@@ -11,8 +11,8 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '410 - 430 yards'
 gauge: 'Stockinette stitch'
 gauge_description: '20 stitches and 29 rows = 4 inches in Stockinette stitch'
-images: ["http://farm7.static.flickr.com/6106/6222939609_5b52b7d254.jpg", "http://images4-b.ravelrycache.com/uploads/Lnand/63651106/IMG_9501_medium.JPG", "http://images4-b.ravelrycache.com/uploads/celinette/65410110/65537557_medium.jpg", "http://images4.ravelrycache.com/uploads/craftzone/63638576/IMG_0054_medium.JPG"]
-tiny_images: ["http://farm7.static.flickr.com/6106/6222939609_5b52b7d254_s.jpg", "http://images4.ravelrycache.com/uploads/Lnand/63651106/IMG_9501_square.JPG", "http://images4-b.ravelrycache.com/uploads/celinette/65410110/65537557_square.jpg", "http://images4.ravelrycache.com/uploads/craftzone/63638576/IMG_0054_square.JPG"]
+images: ["http://farm7.static.flickr.com/6106/6222939609_5b52b7d254.jpg", "http://images4-b.ravelrycache.com/uploads/Lnand/63651106/IMG_9501_medium.JPG", "http://images4-d.ravelrycache.com/uploads/celinette/65410110/65537557_medium.jpg", "http://images4.ravelrycache.com/uploads/craftzone/63638576/IMG_0054_medium.JPG"]
+tiny_images: ["http://farm7.static.flickr.com/6106/6222939609_5b52b7d254_s.jpg", "http://images4.ravelrycache.com/uploads/Lnand/63651106/IMG_9501_square.JPG", "http://images4-d.ravelrycache.com/uploads/celinette/65410110/65537557_square.jpg", "http://images4.ravelrycache.com/uploads/craftzone/63638576/IMG_0054_square.JPG"]
 image: 'http://farm7.static.flickr.com/6106/6222939609_5b52b7d254_s.jpg'
 free: yes
 download_link: http://feministy.com/blog/roxanne-mystery-shawl-kal-clue-1/

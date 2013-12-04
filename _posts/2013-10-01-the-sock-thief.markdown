@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:44
+date: 2013-12-04 12:11:03
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/the-sock-thief'
 title: "The Sock Thief"
 categories: ["socks", "pattern"]

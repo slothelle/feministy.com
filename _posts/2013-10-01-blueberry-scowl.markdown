@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:54
+date: 2013-12-04 12:11:16
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/blueberry-scowl'
 title: "Blueberry Scowl"
 categories: ["shawls", "pattern", "great"]

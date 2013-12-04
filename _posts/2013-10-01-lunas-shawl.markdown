@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:47
+date: 2013-12-04 12:11:07
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/lunas-shawl'
 title: "Luna's Shawl"
 categories: ["shawls", "pattern"]

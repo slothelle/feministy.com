@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:49
+date: 2013-12-04 12:11:10
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/ode-to-the-bay'
 title: "Ode to the Bay"
 categories: ["shawls", "pattern", "fairy"]

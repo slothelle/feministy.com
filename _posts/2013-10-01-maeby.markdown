@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:39
+date: 2013-12-04 12:10:52
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/maeby'
 title: "Maeby"
 categories: ["socks", "pattern", "funke"]

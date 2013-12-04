@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:42
+date: 2013-12-04 12:11:00
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/hatters-party-scarf'
 title: "Hatter's Party Scarf"
 categories: ["scarf", "pattern"]

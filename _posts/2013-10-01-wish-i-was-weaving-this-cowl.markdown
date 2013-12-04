@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:58
+date: 2013-12-04 12:11:20
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/wish-i-was-weaving-this-cowl'
 title: "Wish I Was Weaving This Cowl"
 categories: ["shawls", "pattern"]

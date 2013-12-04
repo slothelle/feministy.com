@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 10:22:48
+date: 2013-12-04 12:11:07
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/any-yarn-scarf'
 title: "Any Yarn Scarf"
 categories: ["scarf", "pattern"]
