@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 12:11:05
+date: 2014-01-10 16:43:35
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/traveling-cowl'
 title: "Traveling Cowl"
 categories: ["shawls", "pattern", "traveling"]
@@ -10,7 +10,7 @@ US 11  - 8.0 mm
 US 6  - 4.0 mm'
 sizes: ["Small (16\"–18\"), medium (20\"), large (21\"–24\")"]
 yarns: 'Fiberphile Hand-Dyed Yarns & Fibers Super Squish Worsted (Worsted)
-Little Red Bicycle Hipster sock (Fingering)
+Little Red Bicycle Hipster Sock (Fingering)
 Schulana Capo Nord (Super Bulky)'
 yarn_weight_description: 'Worsted / 10 ply (9 wpi)'
 yardage_description: '90 - 300 yards'

@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 12:11:20
+date: 2014-01-10 16:43:59
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/wish-i-was-weaving-this-cowl'
 title: "Wish I Was Weaving This Cowl"
 categories: ["shawls", "pattern"]
@@ -11,9 +11,9 @@ yarn_weight_description: 'Worsted / 10 ply (9 wpi)'
 yardage_description: '170 - 400 yards'
 gauge: 'stockinette stitch'
 gauge_description: '16 stitches and 24 rows = 4 inches in stockinette stitch'
-images: ["http://images4-d.ravelrycache.com/uploads/feministy/144977631/_D7C6979_medium.JPG", "http://images4-b.ravelrycache.com/uploads/melliemahonen/191150134/IMG_3476_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/144977608/_D7C6982_medium.JPG", "http://images4-b.ravelrycache.com/uploads/feministy/144977565/_D7C7012_medium.JPG"]
-tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/144977631/_D7C6979_square.JPG", "http://images4-d.ravelrycache.com/uploads/melliemahonen/191150134/IMG_3476_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/144977608/_D7C6982_square.JPG", "http://images4.ravelrycache.com/uploads/feministy/144977565/_D7C7012_square.JPG"]
-image: 'http://images4-d.ravelrycache.com/uploads/feministy/144977631/_D7C6979_square.JPG'
+images: ["http://images4-b.ravelrycache.com/uploads/feministy/144977631/_D7C6979_medium.JPG", "http://images4-d.ravelrycache.com/uploads/melliemahonen/191150134/IMG_3476_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/144977608/_D7C6982_medium.JPG", "http://images4-b.ravelrycache.com/uploads/feministy/144977565/_D7C7012_medium.JPG"]
+tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/144977631/_D7C6979_square.JPG", "http://images4-d.ravelrycache.com/uploads/melliemahonen/191150134/IMG_3476_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/144977608/_D7C6982_square.JPG", "http://images4-d.ravelrycache.com/uploads/feministy/144977565/_D7C7012_square.JPG"]
+image: 'http://images4-b.ravelrycache.com/uploads/feministy/144977631/_D7C6979_square.JPG'
 free: yes
 download_link: http://www.ravelry.com/dls/3244/138173
 ---

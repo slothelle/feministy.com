@@ -1,12 +1,12 @@
 ---
 layout: pattern
-date: 2013-12-04 12:10:52
+date: 2014-01-10 16:43:18
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/maeby'
 title: "Maeby"
 categories: ["socks", "pattern", "funke"]
 needles: 'US 1  - 2.25 mm'
 sizes: ["Women's small and large"]
-yarns: 'Little Red Bicycle Hipster sock (Fingering)'
+yarns: 'Little Red Bicycle Hipster Sock (Fingering)'
 yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '300 - 400 yards'
 gauge: 'stockinette'

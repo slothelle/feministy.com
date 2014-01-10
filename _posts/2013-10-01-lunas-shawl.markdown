@@ -1,19 +1,19 @@
 ---
 layout: pattern
-date: 2013-12-04 12:11:07
+date: 2014-01-10 16:43:38
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/lunas-shawl'
 title: "Luna's Shawl"
 categories: ["shawls", "pattern"]
 needles: 'US 6  - 4.0 mm'
 sizes: ["Fingering - 16\"/40.5cm deep, 45\"/114cm wingspan; Sport - 15.5\"/39cm deep, 38\"/96.5cm wingspan"]
 yarns: 'Miss Babs Yummy Superwash Sport - 3 Ply (Sport)
-Little Red Bicycle Hipster sock (Fingering)'
+Little Red Bicycle Hipster Sock (Fingering)'
 yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '335 - 430 yards'
 gauge: 'fingering weight, stockinette (varies, see description for desired yarn weight)'
 gauge_description: '20 stitches and 28 rows = 4 inches in fingering weight, stockinette (varies, see description for desired yarn weight)'
-images: ["http://farm5.static.flickr.com/4149/5443058476_501d502436.jpg", "http://farm6.static.flickr.com/5300/5569178667_77330d0dd6.jpg", "http://farm6.static.flickr.com/5137/5569179559_457f1c4a9f.jpg", "http://farm6.static.flickr.com/5058/5569179803_e8ecf614cd.jpg", "http://farm6.static.flickr.com/5211/5443058826_70fa2e53e1.jpg", "http://farm5.static.flickr.com/4135/5442454423_d00faac719.jpg", "http://farm5.static.flickr.com/4097/5442454351_047aa4987e.jpg", "http://farm6.static.flickr.com/5104/5569179205_346b0f42c0.jpg"]
-tiny_images: ["http://farm5.static.flickr.com/4149/5443058476_501d502436_s.jpg", "http://farm6.static.flickr.com/5300/5569178667_77330d0dd6_s.jpg", "http://farm6.static.flickr.com/5137/5569179559_457f1c4a9f_s.jpg", "http://farm6.static.flickr.com/5058/5569179803_e8ecf614cd_s.jpg", "http://farm6.static.flickr.com/5211/5443058826_70fa2e53e1_s.jpg", "http://farm5.static.flickr.com/4135/5442454423_d00faac719_s.jpg", "http://farm5.static.flickr.com/4097/5442454351_047aa4987e_s.jpg", "http://farm6.static.flickr.com/5104/5569179205_346b0f42c0_s.jpg"]
+images: ["http://farm5.static.flickr.com/4149/5443058476_501d502436.jpg", "http://farm6.static.flickr.com/5300/5569178667_77330d0dd6.jpg", "http://farm6.static.flickr.com/5137/5569179559_457f1c4a9f.jpg", "http://farm6.static.flickr.com/5058/5569179803_e8ecf614cd.jpg", "http://images4-b.ravelrycache.com/uploads/lalongley/89887206/DSC02440__852x1280__medium.jpg", "http://farm6.static.flickr.com/5211/5443058826_70fa2e53e1.jpg", "http://farm5.static.flickr.com/4135/5442454423_d00faac719.jpg", "http://farm5.static.flickr.com/4097/5442454351_047aa4987e.jpg", "http://farm6.static.flickr.com/5104/5569179205_346b0f42c0.jpg"]
+tiny_images: ["http://farm5.static.flickr.com/4149/5443058476_501d502436_s.jpg", "http://farm6.static.flickr.com/5300/5569178667_77330d0dd6_s.jpg", "http://farm6.static.flickr.com/5137/5569179559_457f1c4a9f_s.jpg", "http://farm6.static.flickr.com/5058/5569179803_e8ecf614cd_s.jpg", "http://images4-b.ravelrycache.com/uploads/lalongley/89887206/DSC02440__852x1280__square.jpg", "http://farm6.static.flickr.com/5211/5443058826_70fa2e53e1_s.jpg", "http://farm5.static.flickr.com/4135/5442454423_d00faac719_s.jpg", "http://farm5.static.flickr.com/4097/5442454351_047aa4987e_s.jpg", "http://farm6.static.flickr.com/5104/5569179205_346b0f42c0_s.jpg"]
 image: 'http://farm5.static.flickr.com/4149/5443058476_501d502436_s.jpg'
 price: '$6.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/58133'

@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 12:11:09
+date: 2014-01-10 16:43:43
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/squish-monster-cowl-of-awesomeness'
 title: "Squish Monster Cowl of Awesomeness"
 categories: ["shawls", "pattern"]

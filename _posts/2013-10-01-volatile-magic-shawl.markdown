@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 12:11:21
+date: 2014-01-10 16:44:01
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/volatile-magic-shawl'
 title: "Volatile Magic Shawl"
 categories: ["shawls", "pattern"]
@@ -11,8 +11,8 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '425 - 435 yards'
 gauge: 'stockinette stitch'
 gauge_description: '26 stitches and 40 rows = 4 inches in stockinette stitch'
-images: ["http://images4.ravelrycache.com/uploads/feministy/197032385/_D7C0070-Edit-Edit_medium.JPG", "http://images4-d.ravelrycache.com/uploads/feministy/197032384/_D7C0066-Edit_medium.JPG", "http://images4-b.ravelrycache.com/uploads/feministy/197032381/_D7C0059-Edit_medium.JPG", "http://images4.ravelrycache.com/uploads/feministy/197032382/_D7C0053-Edit_medium.JPG"]
-tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/197032385/_D7C0070-Edit-Edit_square.JPG", "http://images4-b.ravelrycache.com/uploads/feministy/197032384/_D7C0066-Edit_square.JPG", "http://images4-b.ravelrycache.com/uploads/feministy/197032381/_D7C0059-Edit_square.JPG", "http://images4-b.ravelrycache.com/uploads/feministy/197032382/_D7C0053-Edit_square.JPG"]
+images: ["http://images4-b.ravelrycache.com/uploads/feministy/197032385/_D7C0070-Edit-Edit_medium.JPG", "http://images4.ravelrycache.com/uploads/feministy/197032384/_D7C0066-Edit_medium.JPG", "http://images4-b.ravelrycache.com/uploads/feministy/197032381/_D7C0059-Edit_medium.JPG", "http://images4.ravelrycache.com/uploads/feministy/197032382/_D7C0053-Edit_medium.JPG"]
+tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/197032385/_D7C0070-Edit-Edit_square.JPG", "http://images4-d.ravelrycache.com/uploads/feministy/197032384/_D7C0066-Edit_square.JPG", "http://images4.ravelrycache.com/uploads/feministy/197032381/_D7C0059-Edit_square.JPG", "http://images4.ravelrycache.com/uploads/feministy/197032382/_D7C0053-Edit_square.JPG"]
 image: 'http://images4-b.ravelrycache.com/uploads/feministy/197032385/_D7C0070-Edit-Edit_square.JPG'
 price: '$6.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/185601'

@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 12:11:14
+date: 2014-01-10 16:43:52
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/triptych-shawl'
 title: "Triptych Shawl"
 categories: ["shawls", "pattern"]

@@ -1,17 +1,17 @@
 ---
 layout: pattern
-date: 2013-12-04 12:11:08
+date: 2014-01-10 16:43:40
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/one-million-eyelets'
 title: "One Million Eye(let)s"
 categories: ["scarf", "pattern"]
 needles: 'US 5  - 3.75 mm'
 sizes: ["6.5\"/16.5cm wide, 80\"/203cm long"]
-yarns: 'Little Red Bicycle Hipster sock (Fingering)'
+yarns: 'Little Red Bicycle Hipster Sock (Fingering)'
 yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '400 - 430 yards'
 gauge: 'garter stitch'
 gauge_description: '22 stitches and 24 rows = 4 inches in garter stitch'
-images: ["http://farm6.static.flickr.com/5258/5486614672_09540ef76f.jpg", "http://farm6.static.flickr.com/5013/5486614712_431be9c6a9.jpg", "http://farm6.static.flickr.com/5011/5486614800_f8a677abdc.jpg", "http://farm6.static.flickr.com/5298/5486018869_86f0629c4f.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/55927245/shoggoth_008fix_medium.jpg", "http://farm6.static.flickr.com/5256/5486614890_67241fc031.jpg", "http://farm6.static.flickr.com/5016/5486018977_40733050e5.jpg"]
+images: ["http://farm6.static.flickr.com/5258/5486614672_09540ef76f.jpg", "http://farm6.static.flickr.com/5013/5486614712_431be9c6a9.jpg", "http://farm6.static.flickr.com/5011/5486614800_f8a677abdc.jpg", "http://farm6.static.flickr.com/5298/5486018869_86f0629c4f.jpg", "http://images4.ravelrycache.com/uploads/feministy/55927245/shoggoth_008fix_medium.jpg", "http://farm6.static.flickr.com/5256/5486614890_67241fc031.jpg", "http://farm6.static.flickr.com/5016/5486018977_40733050e5.jpg"]
 tiny_images: ["http://farm6.static.flickr.com/5258/5486614672_09540ef76f_s.jpg", "http://farm6.static.flickr.com/5013/5486614712_431be9c6a9_s.jpg", "http://farm6.static.flickr.com/5011/5486614800_f8a677abdc_s.jpg", "http://farm6.static.flickr.com/5298/5486018869_86f0629c4f_s.jpg", "http://images4.ravelrycache.com/uploads/feministy/55927245/shoggoth_008fix_square.jpg", "http://farm6.static.flickr.com/5256/5486614890_67241fc031_s.jpg", "http://farm6.static.flickr.com/5016/5486018977_40733050e5_s.jpg"]
 image: 'http://farm6.static.flickr.com/5258/5486614672_09540ef76f_s.jpg'
 price: '$6.00'

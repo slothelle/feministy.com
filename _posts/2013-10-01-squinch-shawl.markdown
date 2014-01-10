@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 12:11:17
+date: 2014-01-10 16:43:56
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/squinch-shawl'
 title: "Squinch Shawl"
 categories: ["shawls", "pattern", "arch"]

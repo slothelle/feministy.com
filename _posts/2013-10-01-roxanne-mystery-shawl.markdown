@@ -1,12 +1,12 @@
 ---
 layout: pattern
-date: 2013-12-04 12:11:08
+date: 2014-01-10 16:43:40
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/roxanne-mystery-shawl'
 title: "Roxanne Mystery Shawl"
 categories: ["shawls", "pattern"]
 needles: 'US 5  - 3.75 mm'
 sizes: ["One (with option for those using 400 yards or less)"]
-yarns: 'Little Red Bicycle Hipster sock (Fingering)'
+yarns: 'Little Red Bicycle Hipster Sock (Fingering)'
 yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '410 - 430 yards'
 gauge: 'Stockinette stitch'

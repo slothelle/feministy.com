@@ -1,13 +1,13 @@
 ---
 layout: pattern
-date: 2013-12-04 12:11:06
+date: 2014-01-10 16:43:37
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/traveling-scarf-2'
 title: "Traveling Scarf"
 categories: ["scarf", "pattern", "traveling"]
 needles: 'US 6  - 4.0 mm
 US 9  - 5.5 mm'
 sizes: ["7\"/18cm–11\"/28cm wide, 79\"/201cm–84/213cm long"]
-yarns: 'Little Red Bicycle Hipster sock (Fingering)
+yarns: 'Little Red Bicycle Hipster Sock (Fingering)
 madelinetosh tosh vintage (Worsted)'
 yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '450 - 600 yards'

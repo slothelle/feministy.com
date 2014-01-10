@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2013-12-04 12:10:57
+date: 2014-01-10 16:43:25
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/traveling-woman'
 title: "Traveling Woman"
 categories: ["shawls", "pattern", "traveling"]
