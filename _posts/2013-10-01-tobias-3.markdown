@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:28
+date: 2014-01-24 14:57:30
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/tobias-3'
 title: "Tobias"
 categories: ["socks", "pattern", "funke"]
@@ -11,9 +11,9 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: ' yards'
 gauge: 'stockinette'
 gauge_description: '28 stitches and 32 rows = 4 inches in stockinette'
-images: ["http://images4-d.ravelrycache.com/uploads/feministy/44782658/leg-watermark_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/44782691/blocker-watermark_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/44782757/foot-watermark_medium.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/44782818/yarn-watermark_medium.jpg"]
-tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/44782658/leg-watermark_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/44782691/blocker-watermark_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/44782757/foot-watermark_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/44782818/yarn-watermark_square.jpg"]
-image: 'http://images4-b.ravelrycache.com/uploads/feministy/44782658/leg-watermark_square.jpg'
+images: ["http://images4.ravelrycache.com/uploads/feministy/44782658/leg-watermark_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/44782691/blocker-watermark_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/44782757/foot-watermark_medium.jpg", "http://images4.ravelrycache.com/uploads/feministy/44782818/yarn-watermark_medium.jpg"]
+tiny_images: ["http://images4.ravelrycache.com/uploads/feministy/44782658/leg-watermark_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/44782691/blocker-watermark_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/44782757/foot-watermark_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/44782818/yarn-watermark_square.jpg"]
+image: 'http://images4.ravelrycache.com/uploads/feministy/44782658/leg-watermark_square.jpg'
 price: '$5.00'
 purchase_link: 'http://www.ravelry.com/purchase/feministy/49756'
 collection: 'Fünke Socks'

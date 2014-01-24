@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:58
+date: 2014-01-24 14:57:54
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/babington-shawl'
 title: "Babington Shawl"
 categories: ["shawls", "pattern"]
@@ -11,7 +11,7 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '420 - 435 yards'
 gauge: 'garter stitch'
 gauge_description: '26 stitches and 30 rows = 4 inches in garter stitch'
-images: ["http://images4-b.ravelrycache.com/uploads/feministy/112049724/_D7C6037_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/112049768/_D7C6036_medium.jpg"]
+images: ["http://images4.ravelrycache.com/uploads/feministy/112049724/_D7C6037_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/112049768/_D7C6036_medium.jpg"]
 tiny_images: ["http://images4-b.ravelrycache.com/uploads/feministy/112049724/_D7C6037_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/112049768/_D7C6036_square.jpg"]
 image: 'http://images4-b.ravelrycache.com/uploads/feministy/112049724/_D7C6037_square.jpg'
 price: '$6.00'

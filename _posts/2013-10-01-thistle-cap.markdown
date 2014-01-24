@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:48
+date: 2014-01-24 14:57:47
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/thistle-cap'
 title: "Thistle Cap"
 categories: ["child", "pattern"]

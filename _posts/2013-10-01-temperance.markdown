@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:17
+date: 2014-01-24 14:57:17
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/temperance'
 title: "Temperance"
 categories: ["socks", "pattern"]
@@ -12,7 +12,7 @@ yardage_description: '300 - 400 yards'
 gauge: 'lattice motif'
 gauge_description: '32 stitches and 36 rows = 4 inches in lattice motif'
 images: ["http://farm5.static.flickr.com/4097/4822397559_0a1bef06ed.jpg", "http://farm4.static.flickr.com/3087/3213846334_83bafb81bc.jpg", "http://farm4.static.flickr.com/3198/3289434724_f857d2303b.jpg", "http://farm5.static.flickr.com/4123/4814795792_b7f4da5f06.jpg", "http://images4-b.ravelrycache.com/uploads/JAZZRIZZ/32848817/100_3540_medium.JPG", "http://farm4.static.flickr.com/3361/3213000591_0278504dfa.jpg"]
-tiny_images: ["http://farm5.static.flickr.com/4097/4822397559_0a1bef06ed_s.jpg", "http://farm4.static.flickr.com/3087/3213846334_83bafb81bc_s.jpg", "http://farm4.static.flickr.com/3198/3289434724_f857d2303b_s.jpg", "http://farm5.static.flickr.com/4123/4814795792_b7f4da5f06_s.jpg", "http://images4-d.ravelrycache.com/uploads/JAZZRIZZ/32848817/100_3540_square.JPG", "http://farm4.static.flickr.com/3361/3213000591_0278504dfa_s.jpg"]
+tiny_images: ["http://farm5.static.flickr.com/4097/4822397559_0a1bef06ed_s.jpg", "http://farm4.static.flickr.com/3087/3213846334_83bafb81bc_s.jpg", "http://farm4.static.flickr.com/3198/3289434724_f857d2303b_s.jpg", "http://farm5.static.flickr.com/4123/4814795792_b7f4da5f06_s.jpg", "http://images4-b.ravelrycache.com/uploads/JAZZRIZZ/32848817/100_3540_square.JPG", "http://farm4.static.flickr.com/3361/3213000591_0278504dfa_s.jpg"]
 image: 'http://farm5.static.flickr.com/4097/4822397559_0a1bef06ed_s.jpg'
 free: yes
 download_link: http://www.ravelry.com/dls/3244/12921

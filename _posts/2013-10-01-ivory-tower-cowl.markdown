@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:46
+date: 2014-01-24 14:57:45
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/ivory-tower-cowl'
 title: "Ivory Tower Cowl"
 categories: ["shawls", "pattern", "fairy"]

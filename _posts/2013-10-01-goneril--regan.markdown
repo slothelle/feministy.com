@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:21
+date: 2014-01-24 14:57:20
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/goneril--regan'
 title: "Goneril & Regan"
 categories: ["socks", "pattern"]

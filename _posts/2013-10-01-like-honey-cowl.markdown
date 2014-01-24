@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:57
+date: 2014-01-24 14:57:53
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/like-honey-cowl'
 title: "Like Honey Cowl"
 categories: ["shawls", "pattern", "great"]

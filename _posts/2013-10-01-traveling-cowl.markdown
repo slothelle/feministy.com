@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:35
+date: 2014-01-24 14:57:35
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/traveling-cowl'
 title: "Traveling Cowl"
 categories: ["shawls", "pattern", "traveling"]

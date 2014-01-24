@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:47
+date: 2014-01-24 14:57:46
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/snow-whites-lace'
 title: "Snow White's Lace"
 categories: ["cardigan", "pattern", "fairy"]

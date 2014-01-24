@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:31
+date: 2014-01-24 14:57:32
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/lollipop-socks'
 title: "Lollipop Socks"
 categories: ["socks", "pattern"]
@@ -12,7 +12,7 @@ yardage_description: '300 - 350 yards'
 gauge: 'Stockinette stitch'
 gauge_description: '32 stitches and 46 rows = 4 inches in Stockinette stitch'
 images: ["http://images4-b.ravelrycache.com/uploads/feministy/127747481/d7c6827_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/127747447/d7c6812_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/127747513/d7c6830_medium.jpg"]
-tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/127747481/d7c6827_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/127747447/d7c6812_square.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/127747513/d7c6830_square.jpg"]
+tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/127747481/d7c6827_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/127747447/d7c6812_square.jpg", "http://images4.ravelrycache.com/uploads/feministy/127747513/d7c6830_square.jpg"]
 image: 'http://images4-d.ravelrycache.com/uploads/feministy/127747481/d7c6827_square.jpg'
 free: yes
 download_link: http://www.ravelry.com/dls/3244/123805

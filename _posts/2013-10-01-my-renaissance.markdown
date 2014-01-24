@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:42
+date: 2014-01-24 14:57:41
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/my-renaissance'
 title: "My Renaissance"
 categories: ["shawls", "pattern"]

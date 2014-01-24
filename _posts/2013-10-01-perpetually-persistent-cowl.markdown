@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-10 16:43:53
+date: 2014-01-24 14:57:50
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/perpetually-persistent-cowl'
 title: "Perpetually Persistent Cowl"
 categories: ["shawls", "pattern", "great"]
