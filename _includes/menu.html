@@ -1,81 +1,109 @@
-<ul class="nav nav-list">
+<!-- <ul class="nav nav-list">
   <h5>Hello!</h5>
-</ul>
+
 <ul class="nav nav-list">
-  <li class="nav-header">Resources and Info</li>
-  <li><a href="/about/liz">About Liz</a></li>
-  <li><a href="/blog/archives">Blog archives</a></li>
-  <li><a href="/about/api">Using the Ravelry API to build a website</a></li>
-  <li><a href="/extras/weaving">Weaving math for rigid heddle looms</a></li>
-</ul>
+  <li class="nav-header">Resources and Info
+  <a href="/about/liz">About Liz</a>
+  <a href="/blog/archives">Blog archives</a>
+  <a href="/about/api">Using the Ravelry API to build a website</a>
+  <a href="/extras/weaving">Weaving math for rigid heddle looms</a>
+
+<hr> -->
+<a class="collectionsMenu faded">
+  <h5>
+    Collections
+    <i class="fa fa-angle-double-down"></i>
+  </h5>
+</a>
+
+<div class="collectionsMenu hidden">
+  <ul class="noBullets">
+    <li>
+      <a href="/collections/arch-shawls">Arch Shawls</a>
+    </li>
+    <li>
+      <a href="/collections/great-cowl-kal-12">The Great Cowl KAL 2012</a>
+    </li>
+    <li>
+      <a href="/collections/funke-socks">Funke Socks</a>
+    </li>
+    <li>
+      <a href="/collections/traveling-woman">Traveling Woman</a>
+    </li>
+    <li>
+      <a href="/collections/fairy-tales-saga">Fairy Tales Saga</a>
+    </li>
+  </ul>
+</div>
+
+
+<a class="patternsMenu faded">
+  <h5>
+    Patterns
+    <i class="fa fa-angle-double-down"></i>
+  </h5>
+</a>
+
+<div class="patternsMenu hidden">
+  <ul class="noBullets">
+    {% for post in site.categories.pattern %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+<!-- 
 <hr>
-<h5>Patterns by Collection</h5>
 <ul class="nav nav-list">
-  <li class="nav-header">Collections</li>
-  <li><a href="/collections/arch-shawls">Arch Shawls</a></li>
-  <li><a href="/collections/great-cowl-kal-12">The Great Cowl KAL 2012</a></li>
-  <li><a href="/collections/funke-socks">Funke Socks</a></li>
-  <li><a href="/collections/traveling-woman">Traveling Woman</a></li>
-  <li><a href="/collections/fairy-tales-saga">Fairy Tales Saga</a></li>
-</ul>
-<h5>Patterns by Category</h5>
-<ul class="nav nav-list">
-  <li class="nav-header">Shawls, Cowls, and Wraps</li>
-  {% for post in site.categories.shawls %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-<hr>
-<ul class="nav nav-list">
-  <li class="nav-header">Scarves</li>
+  <li class="nav-header">Scarves
   {% for post in site.categories.scarf %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
-</ul>
+
 <hr>
 <ul class="nav nav-list">
-  <li class="nav-header">Hats</li>
+  <li class="nav-header">Hats
   {% for post in site.categories.hat %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
-</ul>
+
 <hr>
 <ul class="nav nav-list">
-  <li class="nav-header">Socks</li>
+  <li class="nav-header">Socks
   {% for post in site.categories.socks %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
-</ul>
+
 <hr>
 <ul class="nav nav-list">
-  <li class="nav-header">Cardigans</li>
+  <li class="nav-header">Cardigans
   {% for post in site.categories.cardigan %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
-</ul>
+
 <hr>
 <ul class="nav nav-list">
-  <li class="nav-header">Kids</li>
+  <li class="nav-header">Kids
   {% for post in site.categories.child %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
-</ul>
+
 <hr>
 <ul class="nav nav-list">
-  <li><a class="btn btn-small" role="button" data-toggle="modal" href="#modalPatternSupport">Pattern Help</a></li>
-  <li>&nbsp;</li>
-  <li><a href="#modalPurchaseInfo" role="button" class="btn btn-small" data-toggle="modal">Pattern Purchase FAQ</a></li>
-  <li>&nbsp;</li>
-  <li><a class="btn btn-small" role="button" data-toggle="modal" href="#modalFAQ">FAQ</a></li>
-</ul>
+  <a class="btn btn-small" role="button" data-toggle="modal" href="#modalPatternSupport">Pattern Help</a>
+  &nbsp;
+  <a href="#modalPurchaseInfo" role="button" class="btn btn-small" data-toggle="modal">Pattern Purchase FAQ</a>
+  &nbsp;
+  <a class="btn btn-small" role="button" data-toggle="modal" href="#modalFAQ">FAQ</a>
+
 <hr>
 <ul class="nav nav-list">
-  <li class="muted"><small>&copy; Liz Abinante</li>
-  <li class="muted">feministy.com | 2007-2013</li>
-  <li class="muted">Patterns are for non-commercial use only. You may not distribute or sell these patterns or items made using these patterns.</small></li>
-</ul>
+  <li class="muted"><small>&copy; Liz Abinante
+  <li class="muted">feministy.com | 2007-2013
+  <li class="muted">Patterns are for non-commercial use only. You may not distribute or sell these patterns or items made using these patterns.</small>
+
 <hr>
 <ul class="nav nav-list">
-  <li><small><a href="mailto:liz@feministy.com">liz@feministy.com</a></small></li>
-  <li><small><a href="http://twitter.com/feministy">Twitter @feministy</a></small></li>
-</ul>
+  <small><a href="mailto:liz@feministy.com">liz@feministy.com</a></small>
+  <small><a href="http://twitter.com/feministy">Twitter @feministy</a></small>
+
+ -->
