@@ -5,198 +5,321 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       <title>feministy.com - Using the Ravelry API to build a website</title>
       <meta name="viewport" content="width=device-width">
-      <link rel="stylesheet" href="/stylesheets/bootstrap.css">
-      <link rel="stylesheet" href="/stylesheets/bootstrap-responsive.css">
+      <link rel="stylesheet" href="/stylesheets/pure.css">
       <link rel="stylesheet" href="/stylesheets/main.css">
+      <link rel="stylesheet" href="/stylesheets/modal.css">
+      <link rel="stylesheet" href="/stylesheets/font-awesome.min.css">
       <style> body { padding: 80px 0 80px 0; } </style>
     </head>
     <body>
-      <div class="fixed-top-menu-pills">
-        <ul class="nav nav-pills">
-  <li class="active"><a href="/">Home</a></li>
-  <li><a href="/shop">Shop</a></li>
-  <li><a href="/extras/teaching">Teaching</a></li>
-  <li><a href="/extras/tutorials">Tutorials</a></li>
-  <li><a href="/extras/wholesale">Wholesale</a></li>
-  <li><a href="/extras/errata">Errata</a></li>
-  <li><a href="http://www.ravelry.com/groups/traveling-woman" target="_blank">Ravelry</a></li>
-</ul>
 
+      <div class="pure-g">
+        <div class="pure-u-1-5"></div>
+        <div class="pure-u-3-5">
+          <p>
+            <span class="title-heavy">feministy.com</span> <span class="title">Uniquely simple knitwear designed by Liz Abinante.</span>
+          </p>
+        </div>
+        <div class="pure-u-1-5">
+          <p>
+            <a href="/shop">
+              <i class="fa fa-shopping-cart fa-1x"></i> <span class="title">Shop</span>
+            </a>
+          </p>
+        </div>
       </div>
-      <div class="container-fluid">
-        <div class="row-fluid">
-          <div class="span2">
-            <!-- Nav menu -->
-            <div class="page-header">
-              <h4>feministy.com <br><small>home of knitwear designer Liz Abinante</small></h4>
-            </div>
-            <ul class="nav nav-list">
-  <h5>Hello!</h5>
-</ul>
-<ul class="nav nav-list">
-  <li class="nav-header">Resources and Info</li>
-  <li><a href="/about/liz">About Liz</a></li>
-  <li><a href="/blog/archives">Blog archives</a></li>
-  <li><a href="/about/api">Using the Ravelry API to build a website</a></li>
-  <li><a href="/extras/weaving">Weaving math for rigid heddle looms</a></li>
-</ul>
-<hr>
-<h5>Patterns by Collection</h5>
-<ul class="nav nav-list">
-  <li class="nav-header">Collections</li>
-  <li><a href="/collections/arch-shawls">Arch Shawls</a></li>
-  <li><a href="/collections/great-cowl-kal-12">The Great Cowl KAL 2012</a></li>
-  <li><a href="/collections/funke-socks">Funke Socks</a></li>
-  <li><a href="/collections/traveling-woman">Traveling Woman</a></li>
-  <li><a href="/collections/fairy-tales-saga">Fairy Tales Saga</a></li>
-</ul>
-<h5>Patterns by Category</h5>
-<ul class="nav nav-list">
-  <li class="nav-header">Shawls, Cowls, and Wraps</li>
-  
-    <li><a href="/volatile-magic-shawl">Volatile Magic Shawl</a></li>
-  
-    <li><a href="/cove-cowl">Cove Cowl</a></li>
-  
-    <li><a href="/wish-i-was-weaving-this-cowl">Wish I Was Weaving This Cowl</a></li>
-  
-    <li><a href="/voussoir-shawl">Voussoir Shawl</a></li>
-  
-    <li><a href="/babington-shawl">Babington Shawl</a></li>
-  
-    <li><a href="/like-honey-cowl">Like Honey Cowl</a></li>
-  
-    <li><a href="/squinch-shawl">Squinch Shawl</a></li>
-  
-    <li><a href="/lancet-shawl">Lancet Shawl</a></li>
-  
-    <li><a href="/blueberry-scowl">Blueberry Scowl</a></li>
-  
-    <li><a href="/perpetually-persistent-cowl">Perpetually Persistent Cowl</a></li>
-  
-    <li><a href="/triptych-shawl">Triptych Shawl</a></li>
-  
-    <li><a href="/weeble-wobble-cowl">Weeble Wobble Cowl</a></li>
-  
-    <li><a href="/flurries-cowl">Flurries Cowl</a></li>
-  
-    <li><a href="/ivory-tower-cowl">Ivory Tower Cowl</a></li>
-  
-    <li><a href="/ode-to-the-bay">Ode to the Bay</a></li>
-  
-    <li><a href="/squish-monster-cowl-of-awesomeness">Squish Monster Cowl of Awesomeness</a></li>
-  
-    <li><a href="/my-renaissance">My Renaissance</a></li>
-  
-    <li><a href="/roxanne-mystery-shawl">Roxanne Mystery Shawl</a></li>
-  
-    <li><a href="/lunas-shawl">Luna's Shawl</a></li>
-  
-    <li><a href="/traveling-cowl">Traveling Cowl</a></li>
-  
-    <li><a href="/a-very-good-cowl-indeed">A Very Good Cowl Indeed</a></li>
-  
-    <li><a href="/citizen-shawl">Citizen Shawl</a></li>
-  
-    <li><a href="/traveling-woman">Traveling Woman</a></li>
-  
-    <li><a href="/yvaine">Yvaine</a></li>
-  
-</ul>
-<hr>
-<ul class="nav nav-list">
-  <li class="nav-header">Scarves</li>
-  
-    <li><a href="/double-leaf-saroyan">Double Leaf Saroyan</a></li>
-  
-    <li><a href="/one-million-eyelets">One Million Eye(let)s</a></li>
-  
-    <li><a href="/any-yarn-scarf">Any Yarn Scarf</a></li>
-  
-    <li><a href="/traveling-scarf-2">Traveling Scarf</a></li>
-  
-    <li><a href="/hatters-party-scarf">Hatter's Party Scarf</a></li>
-  
-    <li><a href="/objects-in-space">Objects in Space</a></li>
-  
-    <li><a href="/saroyan">Saroyan</a></li>
-  
-</ul>
-<hr>
-<ul class="nav nav-list">
-  <li class="nav-header">Hats</li>
-  
-    <li><a href="/lost-woods-cap">Lost Woods Cap</a></li>
-  
-</ul>
-<hr>
-<ul class="nav nav-list">
-  <li class="nav-header">Socks</li>
-  
-    <li><a href="/neely-ohara">Neely O'Hara</a></li>
-  
-    <li><a href="/traveling-socks-2">Traveling Socks</a></li>
-  
-    <li><a href="/lindsay-3">Lindsay</a></li>
-  
-    <li><a href="/ms-wick">Ms. Wick</a></li>
-  
-    <li><a href="/the-sock-thief">The Sock Thief</a></li>
-  
-    <li><a href="/lollipop-socks">Lollipop Socks</a></li>
-  
-    <li><a href="/tobias-3">Tobias</a></li>
-  
-    <li><a href="/socks-for-euni">Socks for Euni</a></li>
-  
-    <li><a href="/hey-jupiter">Hey Jupiter</a></li>
-  
-    <li><a href="/goneril--regan">Goneril & Regan</a></li>
-  
-    <li><a href="/coraline-2">Coraline</a></li>
-  
-    <li><a href="/maeby">Maeby</a></li>
-  
-    <li><a href="/temperance">Temperance</a></li>
-  
-</ul>
-<hr>
-<ul class="nav nav-list">
-  <li class="nav-header">Cardigans</li>
-  
-    <li><a href="/snow-whites-lace">Snow White's Lace</a></li>
-  
-</ul>
-<hr>
-<ul class="nav nav-list">
-  <li class="nav-header">Kids</li>
-  
-    <li><a href="/thistle-cap">Thistle Cap</a></li>
-  
-</ul>
-<hr>
-<ul class="nav nav-list">
-  <li><a class="btn btn-small" role="button" data-toggle="modal" href="#modalPatternSupport">Pattern Help</a></li>
-  <li>&nbsp;</li>
-  <li><a href="#modalPurchaseInfo" role="button" class="btn btn-small" data-toggle="modal">Pattern Purchase FAQ</a></li>
-  <li>&nbsp;</li>
-  <li><a class="btn btn-small" role="button" data-toggle="modal" href="#modalFAQ">FAQ</a></li>
-</ul>
-<hr>
-<ul class="nav nav-list">
-  <li class="muted"><small>&copy; Liz Abinante</li>
-  <li class="muted">feministy.com | 2007-2013</li>
-  <li class="muted">Patterns are for non-commercial use only. You may not distribute or sell these patterns or items made using these patterns.</small></li>
-</ul>
-<hr>
-<ul class="nav nav-list">
-  <li><small><a href="mailto:liz@feministy.com">liz@feministy.com</a></small></li>
-  <li><small><a href="http://twitter.com/feministy">Twitter @feministy</a></small></li>
-</ul>
 
-          </div>
-          <div class="span10">
-            <h1>
+      <div class="pure-g">
+        <div class="pure-u-1-6">
+  
+  <a href="/volatile-magic-shawl"><img src="http://images4-b.ravelrycache.com/uploads/feministy/197032385/_D7C0070-Edit-Edit_medium.JPG" alt="Volatile Magic Shawl" width="100%"></a>
+</div>
+<div class="pure-u-1-6">
+  
+  <a href="/cove-cowl"><img src="http://images4-b.ravelrycache.com/uploads/feministy/147214508/_D7C7009_medium.JPG" alt="Cove Cowl" width="100%"></a>
+</div>
+<div class="pure-u-1-6">
+  
+  <a href="/wish-i-was-weaving-this-cowl"><img src="http://images4-b.ravelrycache.com/uploads/feministy/144977631/_D7C6979_medium.JPG" alt="Wish I Was Weaving This Cowl" width="100%"></a>
+</div>
+<div class="pure-u-1-6">
+  
+  <a href="/neely-ohara"><img src="http://images4-d.ravelrycache.com/uploads/feministy/123035459/d7c6803_medium.jpg" alt="Neely O'Hara" width="100%"></a>
+</div>
+<div class="pure-u-1-6">
+  
+  <a href="/voussoir-shawl"><img src="http://images4-d.ravelrycache.com/uploads/feministy/100097410/_D7C5554_medium.jpg" alt="Voussoir Shawl" width="100%"></a>
+</div>
+<div class="pure-u-1-6">
+  
+  <a href="/babington-shawl"><img src="http://images4.ravelrycache.com/uploads/feministy/112049724/_D7C6037_medium.jpg" alt="Babington Shawl" width="100%"></a>
+</div>
+      </div>
+
+      <div class="pure-g">
+        <div class="pure-u-1-5"></div>
+        <div class="pure-u-3-5">
+           <div class="pure-menu pure-menu-open pure-menu-horizontal">
+  <ul>
+    <li class="pure-menu-selected"><a href="/">Home</a></li>
+    <li><a href="/blog">Blog</a></li>
+    <li><a href="/shop">Shop</a></li>
+    <li><a href="/extras/tutorials">Tutorials</a></li>
+    <li><a href="/extras/wholesale">Wholesale</a></li>
+    <li><a href="/extras/errata">Errata</a></li>
+    <li><a href="http://www.ravelry.com/groups/traveling-woman" target="_blank">Ravelry</a></li>
+  </ul>
+</div>
+        </div>
+        <div class="pure-u-1-5"></div>
+      </div>
+      <div class="pure-g">
+        <div class="pure-u-1-5">
+          <div class="pure-g">
+            <div class="pure-u-1-5"></div>
+            <div class="pure-u-4-5 nav">
+              <!-- <ul class="nav nav-list">
+  <h5>Hello!</h5>
+
+<ul class="nav nav-list">
+  <li class="nav-header">Resources and Info
+  <a href="/about/liz">About Liz</a>
+  <a href="/blog/archives">Blog archives</a>
+  <a href="/about/api">Using the Ravelry API to build a website</a>
+  <a href="/extras/weaving">Weaving math for rigid heddle looms</a>
+
+<hr> -->
+<a class="collectionsMenu faded">
+  <h5>
+    Collections
+    <i class="fa fa-angle-double-down"></i>
+  </h5>
+</a>
+
+<div class="collectionsMenu hidden">
+  <ul class="noBullets">
+    <li>
+      <a href="/collections/arch-shawls">Arch Shawls</a>
+    </li>
+    <li>
+      <a href="/collections/great-cowl-kal-12">The Great Cowl KAL 2012</a>
+    </li>
+    <li>
+      <a href="/collections/funke-socks">Funke Socks</a>
+    </li>
+    <li>
+      <a href="/collections/traveling-woman">Traveling Woman</a>
+    </li>
+    <li>
+      <a href="/collections/fairy-tales-saga">Fairy Tales Saga</a>
+    </li>
+  </ul>
+</div>
+
+
+<a class="patternsMenu faded">
+  <h5>
+    Patterns
+    <i class="fa fa-angle-double-down"></i>
+  </h5>
+</a>
+
+<div class="patternsMenu hidden">
+  <ul class="noBullets">
+    
+      <li><a href="/volatile-magic-shawl">Volatile Magic Shawl</a></li>
+    
+      <li><a href="/cove-cowl">Cove Cowl</a></li>
+    
+      <li><a href="/wish-i-was-weaving-this-cowl">Wish I Was Weaving This Cowl</a></li>
+    
+      <li><a href="/neely-ohara">Neely O'Hara</a></li>
+    
+      <li><a href="/voussoir-shawl">Voussoir Shawl</a></li>
+    
+      <li><a href="/babington-shawl">Babington Shawl</a></li>
+    
+      <li><a href="/squinch-shawl">Squinch Shawl</a></li>
+    
+      <li><a href="/like-honey-cowl">Like Honey Cowl</a></li>
+    
+      <li><a href="/lancet-shawl">Lancet Shawl</a></li>
+    
+      <li><a href="/blueberry-scowl">Blueberry Scowl</a></li>
+    
+      <li><a href="/perpetually-persistent-cowl">Perpetually Persistent Cowl</a></li>
+    
+      <li><a href="/weeble-wobble-cowl">Weeble Wobble Cowl</a></li>
+    
+      <li><a href="/triptych-shawl">Triptych Shawl</a></li>
+    
+      <li><a href="/flurries-cowl">Flurries Cowl</a></li>
+    
+      <li><a href="/thistle-cap">Thistle Cap</a></li>
+    
+      <li><a href="/snow-whites-lace">Snow White's Lace</a></li>
+    
+      <li><a href="/double-leaf-saroyan">Double Leaf Saroyan</a></li>
+    
+      <li><a href="/lost-woods-cap">Lost Woods Cap</a></li>
+    
+      <li><a href="/ivory-tower-cowl">Ivory Tower Cowl</a></li>
+    
+      <li><a href="/ode-to-the-bay">Ode to the Bay</a></li>
+    
+      <li><a href="/squish-monster-cowl-of-awesomeness">Squish Monster Cowl of Awesomeness</a></li>
+    
+      <li><a href="/roxanne-mystery-shawl">Roxanne Mystery Shawl</a></li>
+    
+      <li><a href="/my-renaissance">My Renaissance</a></li>
+    
+      <li><a href="/one-million-eyelets">One Million Eye(let)s</a></li>
+    
+      <li><a href="/any-yarn-scarf">Any Yarn Scarf</a></li>
+    
+      <li><a href="/lunas-shawl">Luna's Shawl</a></li>
+    
+      <li><a href="/traveling-scarf-2">Traveling Scarf</a></li>
+    
+      <li><a href="/traveling-socks-2">Traveling Socks</a></li>
+    
+      <li><a href="/traveling-cowl">Traveling Cowl</a></li>
+    
+      <li><a href="/lindsay-3">Lindsay</a></li>
+    
+      <li><a href="/the-sock-thief">The Sock Thief</a></li>
+    
+      <li><a href="/ms-wick">Ms. Wick</a></li>
+    
+      <li><a href="/lollipop-socks">Lollipop Socks</a></li>
+    
+      <li><a href="/a-very-good-cowl-indeed">A Very Good Cowl Indeed</a></li>
+    
+      <li><a href="/citizen-shawl">Citizen Shawl</a></li>
+    
+      <li><a href="/tobias-3">Tobias</a></li>
+    
+      <li><a href="/socks-for-euni">Socks for Euni</a></li>
+    
+      <li><a href="/hatters-party-scarf">Hatter's Party Scarf</a></li>
+    
+      <li><a href="/objects-in-space">Objects in Space</a></li>
+    
+      <li><a href="/saroyan">Saroyan</a></li>
+    
+      <li><a href="/yvaine">Yvaine</a></li>
+    
+      <li><a href="/traveling-woman">Traveling Woman</a></li>
+    
+      <li><a href="/hey-jupiter">Hey Jupiter</a></li>
+    
+      <li><a href="/goneril--regan">Goneril & Regan</a></li>
+    
+      <li><a href="/coraline-2">Coraline</a></li>
+    
+      <li><a href="/maeby">Maeby</a></li>
+    
+      <li><a href="/temperance">Temperance</a></li>
+    
+  </ul>
+</div>
+<!-- 
+<hr>
+<ul class="nav nav-list">
+  <li class="nav-header">Scarves
+  
+    <a href="/double-leaf-saroyan">Double Leaf Saroyan</a>
+  
+    <a href="/one-million-eyelets">One Million Eye(let)s</a>
+  
+    <a href="/any-yarn-scarf">Any Yarn Scarf</a>
+  
+    <a href="/traveling-scarf-2">Traveling Scarf</a>
+  
+    <a href="/hatters-party-scarf">Hatter's Party Scarf</a>
+  
+    <a href="/objects-in-space">Objects in Space</a>
+  
+    <a href="/saroyan">Saroyan</a>
+  
+
+<hr>
+<ul class="nav nav-list">
+  <li class="nav-header">Hats
+  
+    <a href="/lost-woods-cap">Lost Woods Cap</a>
+  
+
+<hr>
+<ul class="nav nav-list">
+  <li class="nav-header">Socks
+  
+    <a href="/neely-ohara">Neely O'Hara</a>
+  
+    <a href="/traveling-socks-2">Traveling Socks</a>
+  
+    <a href="/lindsay-3">Lindsay</a>
+  
+    <a href="/the-sock-thief">The Sock Thief</a>
+  
+    <a href="/ms-wick">Ms. Wick</a>
+  
+    <a href="/lollipop-socks">Lollipop Socks</a>
+  
+    <a href="/tobias-3">Tobias</a>
+  
+    <a href="/socks-for-euni">Socks for Euni</a>
+  
+    <a href="/hey-jupiter">Hey Jupiter</a>
+  
+    <a href="/goneril--regan">Goneril & Regan</a>
+  
+    <a href="/coraline-2">Coraline</a>
+  
+    <a href="/maeby">Maeby</a>
+  
+    <a href="/temperance">Temperance</a>
+  
+
+<hr>
+<ul class="nav nav-list">
+  <li class="nav-header">Cardigans
+  
+    <a href="/snow-whites-lace">Snow White's Lace</a>
+  
+
+<hr>
+<ul class="nav nav-list">
+  <li class="nav-header">Kids
+  
+    <a href="/thistle-cap">Thistle Cap</a>
+  
+
+<hr>
+<ul class="nav nav-list">
+  <a class="btn btn-small" role="button" data-toggle="modal" href="#modalPatternSupport">Pattern Help</a>
+  &nbsp;
+  <a href="#modalPurchaseInfo" role="button" class="btn btn-small" data-toggle="modal">Pattern Purchase FAQ</a>
+  &nbsp;
+  <a class="btn btn-small" role="button" data-toggle="modal" href="#modalFAQ">FAQ</a>
+
+<hr>
+<ul class="nav nav-list">
+  <li class="muted"><small>&copy; Liz Abinante
+  <li class="muted">feministy.com | 2007-2013
+  <li class="muted">Patterns are for non-commercial use only. You may not distribute or sell these patterns or items made using these patterns.</small>
+
+<hr>
+<ul class="nav nav-list">
+  <small><a href="mailto:liz@feministy.com">liz@feministy.com</a></small>
+  <small><a href="http://twitter.com/feministy">Twitter @feministy</a></small>
+
+ -->
+            </div>
+          </di>
+        </div>
+        <div class="pure-u-3-5">
+          <h1>
   Building a website with the Ravelry API
 </h1>
 
@@ -332,7 +455,7 @@ Interested in having me make you a web app or site that pulls pattern informatio
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-            <div id="modalPurchaseInfo" class="modal hide fade">
+          <div id="modalPurchaseInfo" class="modal hide fade">
   <div class="modal-header">
     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times; Close</button>
     <h3>About pattern purchases</h3>
@@ -376,13 +499,14 @@ Interested in having me make you a web app or site that pulls pattern informatio
     <p class="muted">Happy knitting!</p>
   </div>
 </div>
-          </div>
         </div>
+        <div class="pure-u-1-5">&nbsp;</div>
       </div>
 
-    <!-- Javascript for Bootstrap -->
+    <!-- Javascript for fancy -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script type="text/javascript" src="/js/bootstrap.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+    <script type="text/javascript" src="/js/modal.js"></script>
 
     <!-- Fancy TypeKit fonts -->
     <script type="text/javascript" src="//use.typekit.net/pny8tfx.js"></script>
