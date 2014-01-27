@@ -225,6 +225,9 @@ table {
     border: 0;
 }
 .pure-button {
+    font-family: $accent;
+    text-transform: uppercase;
+    font-weight: 400;
     font-size: 100%;
     *font-size: 90%;
     *overflow: visible;

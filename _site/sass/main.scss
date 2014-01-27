@@ -1,7 +1,18 @@
 @import "variables";
 
-html, body, p {
+html, body, body,
+.pure-g [class *= "pure-u"],
+.pure-g-r [class *= "pure-u"] {
   font-family: $body;
+}
+
+.writing, .pattern {
+  font-size: 1.2em;
+  line-height: 1.75em;
+  h2 {
+    padding: 20px 0px;
+    border-bottom: 5px solid $dark-teal;
+  }
 }
 
 a {
@@ -60,6 +71,26 @@ ul.noBullets {
   }
 }
 
+.button-small {
+  font-size: 0.75em;
+}
+
+.button-med {
+  font-size: 0.85em;
+}
+
+.button-large {
+  font-size: 1em;
+}
+
+.footer {
+  font-size: 0.6em;
+  a {
+    font-weight: 300;
+  }
+}
+
+
 // HELPERS
 .accent { font-family: $accent; }
 .bodyFont { font-family: $body; }
@@ -72,6 +103,10 @@ ul.noBullets {
 .em2 { font-size: 2em; }
 .hidden { display: none; }
 .lineHeightEm12 { line-height: 1.2em; }
+.paddingLeft { padding-left: 20px; }
+.paddingTop { padding-top: 28px; }
+.paddingRight { padding-right: 20px; }
+.right { text-align: right; }
 .standardcase { text-transform: none; }
 .textColor { color: $text; }
 .weightThin { font-weight: 100; }
