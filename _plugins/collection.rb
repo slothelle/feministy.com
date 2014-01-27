@@ -116,5 +116,3 @@ collections << RavelryCollection.new(
   permalink: 'fairy-tales-saga',
   category: 'fairy'
   )
-
-collections.each { |collection| collection.create_file }

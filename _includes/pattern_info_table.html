@@ -1,14 +1,48 @@
-<dl class="dl-horizontal">
-  <dt>Gauge</dt>
-  <dd>{{ page.gauge_description }}</dd>
-  <dt>Yardage</dt>
-  <dd>{{ page.yardage_description }} {{ page.yarn_weight_description }}</dd>
-  <dt>Yarns</dt>
-  <dd>{{ page.yarns }}</dd>
-  <dt>Needles</dt>
-  <dd>{{ page.needles }}</dd>
-  {% if page.sizes %}
-    <dt>Sizes</dt>
-    <dd>{{ page.sizes | array_to_sentence_string }}</dd>
-  {% endif %}
-</dl>
+<div class="pure-g">
+  <div class="pure-u-1-3">
+    <h4>Gauge</h4>
+  </div>
+  <div class="pure-u-2-3">
+    <p>
+      {{ page.gauge_description }}
+    </p>
+  </div>
+</div>
+
+<div class="pure-g">
+  <div class="pure-u-1-3">
+    <h4>Yardage</h4>
+  </div>
+  <div class="pure-u-2-3">
+    <p>{{ page.yardage_description }} {{ page.yarn_weight_description }}</p>
+  </div>
+</div>
+
+<div class="pure-g">
+  <div class="pure-u-1-3">
+    <h4>Yarns</h4>
+  </div>
+  <div class="pure-u-2-3">
+    <p>{{ page.yarns }}</p>
+  </div>
+</div>
+
+<div class="pure-g">
+  <div class="pure-u-1-3">
+    <h4>Needles</h4>
+  </div>
+  <div class="pure-u-2-3">
+    <p>{{ page.needles }}</p>
+  </div>
+</div>
+
+{% if page.sizes %}
+  <div class="pure-g">
+    <div class="pure-u-1-3">
+      <h4>Sizes</h4>
+    </div>
+    <div class="pure-u-2-3">
+      <p>{{ page.sizes | array_to_sentence_string }}</p>
+    </div>
+  </div>
+{% endif %}

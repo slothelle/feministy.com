@@ -3,38 +3,8 @@ layout: default
 title: feministy.com - home of designer liz abinante
 ---
 
-<div class="hero-unit">
-  <h1>feministy.com</h1>
-  <p>Uniquely simple knitwear designed by Liz Abinante.</p>
-  {% for post in site.categories.pattern %}
-    <a href="{{ post.url }}"><img src="{{ post.image }}" class="img-circle"></a>
-  {% endfor %}
-</div>
-
-<div class="page-header">
-  <h2>
-    Hello, friend!<br><small>How about you read some recent blog posts vaguely related to knitting?</small>
-  </h2>
-</div>
-
-{% for post in site.categories.blog %}
-  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-  <div class="pull-left">
-    {% if post.image %}
-      <img src="{{ post.image }}" class="img-circle" width="100" style="margin-right: 15px; margin-bottom: 15px;">
-    {% endif %}
+<div class="pure-g">
+  <div class="pure-u-1">
+    {% include header_images.html %}
   </div>
-  <p class="muted">
-    <small>{{ post.date | date: "%-d %B %Y" }}</small>
-  </p>
-  <p>
-    {{ post.excerpt }}
-  </p>
-  <p class="serif">
-    {% for category in post.categories %}
-      <span class="badge">{{ category }}</span> 
-    {% endfor %}
-    <a href="{{ post.url }}" class="badge badge-success">Read full post &rarr;</a>
-  </p>
-  <hr>
-{% endfor %}
+</div>

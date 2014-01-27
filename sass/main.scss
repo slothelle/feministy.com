@@ -1,20 +1,117 @@
 @import "variables";
 
-html, body {
-  font-family: $sans;
+html, body, body,
+.pure-g [class *= "pure-u"],
+.pure-g-r [class *= "pure-u"] {
+  font-family: $body;
 }
 
-.hero-unit, h1, h2, h3, h4, h5, h6 { font-family: $serif; }
-
-.fixed-top-menu-pills {
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  padding: 10px 20px;
-  background: #ffffff;
-  width: 100%;
+.writing, .pattern {
+  font-size: 1.2em;
+  line-height: 1.75em;
+  h2 {
+    padding: 20px 0px;
+    border-bottom: 5px solid $dark-teal;
+  }
 }
 
-.serif {
-  font-family: $serif;
+a {
+  text-decoration: none;
+  @extend .weightBold;
+  @extend .darkTeal;
+  :hover {
+   @extend .darkPink;
+  }
 }
+
+a.faded {
+  @extend .textColor;
+  @extend .weightBook;
+  :hover {
+    @extend .darkPink;
+  }
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  @extend .accent;
+  @extend .uppercase;
+}
+
+.title {
+  @extend .accent;
+  @extend .uppercase;
+  @extend .em12;
+}
+
+.title-heavy {
+  @extend .accent;
+  @extend .uppercase;
+  @extend .weightBlack;
+  @extend .em12;
+}
+
+ul, li {
+  @extend .accent;
+  @extend .uppercase;
+  @extend .em09;
+  a {
+    @extend .weightBook;
+  }
+}
+
+ul.noBullets {
+  padding-left: 0px;
+  li {
+    list-style-type: none;
+    @extend .em1;
+    padding-bottom: 10px;
+    @extend .bodyFont;
+    @extend .standardcase;
+  }
+}
+
+.button-small {
+  font-size: 0.75em;
+}
+
+.button-med {
+  font-size: 0.85em;
+}
+
+.button-large {
+  font-size: 1em;
+}
+
+.footer {
+  font-size: 0.6em;
+  a {
+    font-weight: 300;
+  }
+}
+
+
+// HELPERS
+.accent { font-family: $accent; }
+.bodyFont { font-family: $body; }
+.center { text-align: center; }
+.darkTeal { color: $dark-teal; }
+.darkPink { color: $dark-pink; }
+.em09 { font-size: 0.9em; }
+.em1 { font-size: 1em; }
+.em12 { font-size: 1.2em; }
+.em2 { font-size: 2em; }
+.hidden { display: none; }
+.lineHeightEm12 { line-height: 1.2em; }
+.paddingLeft { padding-left: 20px; }
+.paddingTop { padding-top: 28px; }
+.paddingRight { padding-right: 20px; }
+.right { text-align: right; }
+.standardcase { text-transform: none; }
+.textColor { color: $text; }
+.weightThin { font-weight: 100; }
+.weightLight { font-weight: 300; }
+.weightBook { font-weight: 400; }
+.weightBold { font-weight: 700; }
+.weightBlack { font-weight: 900; }
+.uppercase { text-transform: uppercase; }

@@ -1,14 +1,23 @@
 ---
 layout: default
 ---
-<h2>
-  {{ page.title }}
-  <span class="pull-right">
-    {% for category in page.categories %}
-      <span class="badge">{{ category }}</span> 
-    {% endfor %}
-  </span>
-</h2>
+
+<div class="pure-g">
+  <div class="pure-u-4-5">
+    <div class="paddingLeft">
+      <h2>
+        {{ page.title }}
+        <span class="pull-right">
+          {% for category in page.categories %}
+            <span class="badge">{{ category }}</span>
+          {% endfor %}
+        </span>
+      </h2>
+    </div>
+  </div>
+  <div class="pure-u-1-5"></div>
+</div>
+
 
 <p class="muted">
   {{ page.date | date: "%-d %B %Y" }}
