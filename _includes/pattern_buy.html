@@ -1,8 +1,7 @@
 {% if page.price %}
-  <p><a href="#{{ page.purchase_link }}" class="btn btn-success">{{ page.price}} &bull; Buy {{ page.title }} now!</a></p>
-  <p><a href="#modalPurchaseInfo" role="button" class="btn" data-toggle="modal">Pattern Purchase FAQ</a></p>
+  <a href="#{{ page.purchase_link }}" class="pure-button pure-button-alt">{{ page.price}} &bull; Buy {{ page.title }} now!</a> <a href="#modalPurchaseInfo" role="button" class="pure-button pure-button" data-toggle="modal">Pattern Purchase FAQ</a>
 {% endif %}
 {% if page.free %}
-  <p><a href="{{ page.download_link }}" class="btn">Download free pattern!</a></p>
+  <a href="{{ page.download_link }}" class="pure-button">Download free pattern!</a>
 {% endif %}
-<p><a href="{{ page.ravelry_permalink }}" class="btn">View on Ravelry</a></p>
+<a href="{{ page.ravelry_permalink }}" class="pure-button pure-button-primary">View on Ravelry</a>
