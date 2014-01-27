@@ -56,8 +56,11 @@ class RavelryPattern
   end
 
   def format_date
-    date = Date.parse(@pattern["published"])
-    date = Time.now if !date
+    if @pattern["published"]
+      date = Date.parse(@pattern["published"])
+    else
+      date = Time.now
+    end
 
     @date = date.strftime("%Y-%m-%d %H:%M:%S")
     file_date = date.strftime("%Y-%m-%d")
