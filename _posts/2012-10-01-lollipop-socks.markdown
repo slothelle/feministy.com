@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-24 14:57:32
+date: 2012-10-01 00:00:00
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/lollipop-socks'
 title: "Lollipop Socks"
 categories: ["socks", "pattern"]

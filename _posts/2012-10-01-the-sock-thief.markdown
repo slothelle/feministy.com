@@ -1,6 +1,6 @@
 ---
 layout: pattern
-date: 2014-01-24 14:57:33
+date: 2012-10-01 00:00:00
 ravelry_permalink: 'http://www.ravelry.com/patterns/library/the-sock-thief'
 title: "The Sock Thief"
 categories: ["socks", "pattern"]
@@ -13,7 +13,7 @@ yarn_weight_description: 'Fingering / 4 ply (14 wpi)'
 yardage_description: '265 - 450 yards'
 gauge: 'stockinette stitch'
 gauge_description: '32 stitches and 40 rows = 4 inches in stockinette stitch'
-images: ["http://images4-d.ravelrycache.com/uploads/feministy/125478506/d7c6785_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/125478578/d7c6779_medium.jpg"]
+images: ["http://images4-b.ravelrycache.com/uploads/feministy/125478506/d7c6785_medium.jpg", "http://images4-b.ravelrycache.com/uploads/feministy/125478578/d7c6779_medium.jpg"]
 tiny_images: ["http://images4-d.ravelrycache.com/uploads/feministy/125478506/d7c6785_square.jpg", "http://images4-d.ravelrycache.com/uploads/feministy/125478578/d7c6779_square.jpg"]
 image: 'http://images4-d.ravelrycache.com/uploads/feministy/125478506/d7c6785_square.jpg'
 price: '$6.00'
