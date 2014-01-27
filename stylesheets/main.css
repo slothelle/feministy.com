@@ -1,114 +1,171 @@
-/* line 3, ../sass/main.scss */
-html, body, p {
+/* line 5, ../sass/main.scss */
+html, body, body,
+.pure-g [class*="pure-u"],
+.pure-g-r [class*="pure-u"] {
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
 }
 
-/* line 7, ../sass/main.scss */
+/* line 9, ../sass/main.scss */
+.writing, .pattern {
+  font-size: 1.2em;
+  line-height: 1.75em;
+}
+/* line 12, ../sass/main.scss */
+.writing h2, .pattern h2 {
+  padding: 20px 0px;
+  border-bottom: 5px solid #24d7c3;
+}
+
+/* line 18, ../sass/main.scss */
 a {
   text-decoration: none;
 }
 
-/* line 52, ../sass/main.scss */
+/* line 63, ../sass/main.scss */
 ul.noBullets {
   padding-left: 0px;
 }
-/* line 54, ../sass/main.scss */
+/* line 65, ../sass/main.scss */
 ul.noBullets li {
   list-style-type: none;
   padding-bottom: 10px;
 }
 
-/* line 64, ../sass/main.scss */
+/* line 74, ../sass/main.scss */
+.button-small {
+  font-size: 0.75em;
+}
+
+/* line 78, ../sass/main.scss */
+.button-med {
+  font-size: 0.85em;
+}
+
+/* line 82, ../sass/main.scss */
+.button-large {
+  font-size: 1em;
+}
+
+/* line 86, ../sass/main.scss */
+.footer {
+  font-size: 0.6em;
+}
+/* line 88, ../sass/main.scss */
+.footer a {
+  font-weight: 300;
+}
+
+/* line 95, ../sass/main.scss */
 .accent, h1, h2, h3, h4, h5, h6, .title, .title-heavy, ul, li {
   font-family: "brandon-grotesque", Helvetica, Arial, sans-serif;
 }
 
-/* line 65, ../sass/main.scss */
+/* line 96, ../sass/main.scss */
 .bodyFont, ul.noBullets li {
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
 }
 
-/* line 66, ../sass/main.scss */
+/* line 97, ../sass/main.scss */
 .center {
   text-align: center;
 }
 
-/* line 67, ../sass/main.scss */
+/* line 98, ../sass/main.scss */
 .darkTeal, a {
   color: #24d7c3;
 }
 
-/* line 68, ../sass/main.scss */
+/* line 99, ../sass/main.scss */
 .darkPink, a :hover, a.faded :hover {
   color: #f7455d;
 }
 
-/* line 69, ../sass/main.scss */
+/* line 100, ../sass/main.scss */
 .em09, ul, li {
   font-size: 0.9em;
 }
 
-/* line 70, ../sass/main.scss */
+/* line 101, ../sass/main.scss */
 .em1, ul.noBullets li {
   font-size: 1em;
 }
 
-/* line 71, ../sass/main.scss */
+/* line 102, ../sass/main.scss */
 .em12, .title, .title-heavy {
   font-size: 1.2em;
 }
 
-/* line 72, ../sass/main.scss */
+/* line 103, ../sass/main.scss */
 .em2 {
   font-size: 2em;
 }
 
-/* line 73, ../sass/main.scss */
+/* line 104, ../sass/main.scss */
 .hidden {
   display: none;
 }
 
-/* line 74, ../sass/main.scss */
+/* line 105, ../sass/main.scss */
 .lineHeightEm12 {
   line-height: 1.2em;
 }
 
-/* line 75, ../sass/main.scss */
+/* line 106, ../sass/main.scss */
+.paddingLeft {
+  padding-left: 20px;
+}
+
+/* line 107, ../sass/main.scss */
+.paddingTop {
+  padding-top: 28px;
+}
+
+/* line 108, ../sass/main.scss */
+.paddingRight {
+  padding-right: 20px;
+}
+
+/* line 109, ../sass/main.scss */
+.right {
+  text-align: right;
+}
+
+/* line 110, ../sass/main.scss */
 .standardcase, ul.noBullets li {
   text-transform: none;
 }
 
-/* line 76, ../sass/main.scss */
+/* line 111, ../sass/main.scss */
 .textColor, a.faded {
   color: #333333;
 }
 
-/* line 77, ../sass/main.scss */
+/* line 112, ../sass/main.scss */
 .weightThin {
   font-weight: 100;
 }
 
-/* line 78, ../sass/main.scss */
+/* line 113, ../sass/main.scss */
 .weightLight {
   font-weight: 300;
 }
 
-/* line 79, ../sass/main.scss */
+/* line 114, ../sass/main.scss */
 .weightBook, a.faded, ul a, li a {
   font-weight: 400;
 }
 
-/* line 80, ../sass/main.scss */
+/* line 115, ../sass/main.scss */
 .weightBold, a {
   font-weight: 700;
 }
 
-/* line 81, ../sass/main.scss */
+/* line 116, ../sass/main.scss */
 .weightBlack, .title-heavy {
   font-weight: 900;
 }
 
-/* line 82, ../sass/main.scss */
+/* line 117, ../sass/main.scss */
 .uppercase, h1, h2, h3, h4, h5, h6, .title, .title-heavy, ul, li {
   text-transform: uppercase;
 }
