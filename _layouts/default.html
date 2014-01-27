@@ -9,51 +9,44 @@
       <link rel="stylesheet" href="/stylesheets/main.css">
       <link rel="stylesheet" href="/stylesheets/modal.css">
       <link rel="stylesheet" href="/stylesheets/font-awesome.min.css">
-      <style> body { padding: 80px 0 80px 0; } </style>
     </head>
     <body>
 
       <div class="pure-g">
-        <div class="pure-u-1-5"></div>
-        <div class="pure-u-3-5">
-          <p>
-            <span class="title-heavy">feministy.com</span> <span class="title">Uniquely simple knitwear designed by Liz Abinante.</span>
-          </p>
-        </div>
-        <div class="pure-u-1-5">
-          <p>
-            <a href="/shop">
-              <i class="fa fa-shopping-cart fa-1x"></i> <span class="title">Shop</span>
-            </a>
-          </p>
-        </div>
-      </div>
-
-      <div class="pure-g">
-        {% include header_images.html %}
-      </div>
-
-      <div class="pure-g">
-        <div class="pure-u-1-5"></div>
-        <div class="pure-u-3-5">
+        <div class="pure-u-1">
           {% include top_menu.html %}
-        </div>
-        <div class="pure-u-1-5"></div>
-      </div>
-      <div class="pure-g">
-        <div class="pure-u-1-5">
           <div class="pure-g">
-            <div class="pure-u-1-5"></div>
-            <div class="pure-u-4-5 nav">
-              {% include menu.html %}
+            <div class="pure-u-1">
+              <p class="paddingLeft">
+                <span class="title-heavy">feministy.com</span> <span class="title">Uniquely simple knitwear designed by Liz Abinante.</span>
+              </p>
+              <div class="paddingLeft">
+                <h5>
+                  Collections
+                  &nbsp; | &nbsp;
+                  <a href="/collections/arch-shawls">Arch Shawls</a>
+                  &nbsp; | &nbsp;
+                  <a href="/collections/great-cowl-kal-12">The Great Cowl KAL 2012</a>
+                  &nbsp; | &nbsp;
+                  <a href="/collections/funke-socks">Funke Socks</a>
+                  &nbsp; | &nbsp;
+                  <a href="/collections/traveling-woman">Traveling Woman</a>
+                  &nbsp; | &nbsp;
+                  <a href="/collections/fairy-tales-saga">Fairy Tales Saga</a>
+                </h5>
+              </div>
             </div>
-          </di>
+          </div>
         </div>
-        <div class="pure-u-3-5">
-          {{content}}
-          {% include modals.html %}
+      </div>
+
+      {{content}}
+      {% include modals.html %}
+
+      <div class="pure-g">
+        <div class="pure-u-1">
+          {% include footer.html %}
         </div>
-        <div class="pure-u-1-5">&nbsp;</div>
       </div>
 
     <!-- Javascript for fancy -->

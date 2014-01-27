@@ -2,71 +2,67 @@
 layout: default
 ---
 
-
-<div class="pull-right">
-  {% for image in page.tiny_images %}
-    <p>
-      <img class="img-circle" src="{{ image }}">
-    </p>
-  {% endfor %}
-</div>
-
-<h1>
-  {{ page.title }}
-  {% if page.price %}
-    <a href="{{ page.purchase_link }}" class="btn btn-success btn-large">{{ page.price }} &bull; Buy now!</a>
-  {% endif %}
-
-  {% if page.free %}
-    <a href="{{ page.download_link }}" class="btn btn-success">Download free pattern!</a>
-  {% endif %}
-</h1>
-
-<hr>
-
-{{ content }}
-
-<hr>
-
-<h4>Pattern Information</h4>
-<div class="row">
-  <div class="span6">
-    {% include pattern_info_table.html %}
-  </div>
-  <div class="span6">
-    {% include pattern_buy.html %}
+<div class="pure-g">
+  <div class="pure-u-1">
+    <div class="paddingLeft">
+      <h1 class="darkTeal">
+        {{ page.title }}
+      </h1>
+    </div>
   </div>
 </div>
 
-{% if page.collection %}
-  {% include pattern_collection_buy.html %}
-{% endif %}
+<div class="pure-g">
+  <div class="pure-u-4-5">
+    <div class="paddingLeft">
+      <img src="{{ page.images[0] }}" width="49%">
+      <img src="{{ page.images[1] }}" width="49%">
 
-<hr>
+      <div class="pattern">
+        <div class="paddingTop">
+          {% include pattern_buy.html %}
+        </div>
 
-<h4>Photos</h4>
-<div class="text-center">
-  {% for image in page.images %}
-    <img class="img-rounded" src="{{ image }}">
-  {% endfor %}
+        {{ content }}
+
+
+        <h2>Pattern Information</h2>
+        {% include pattern_info_table.html %}
+
+        {% if page.collection %}
+          {% include pattern_collection_buy.html %}
+        {% endif %}
+
+        <h2>Photos</h2>
+        <div class="text-center">
+          {% for image in page.images %}
+            <img class="img-rounded" src="{{ image }}">
+          {% endfor %}
+        </div>
+
+        <h2>Comments</h2>
+      </div>
+
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+          /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+          var disqus_shortname = 'feministy'; // required: replace example with your forum shortname
+
+          /* * * DON'T EDIT BELOW THIS LINE * * */
+          (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
+  </div>
+  <div class="pure-u-1-5">
+    {% for image in page.tiny_images %}
+      <img src="{{ image }}">
+      <br><bR>
+    {% endfor %}
+  </div>
 </div>
-
-<hr>
-
-<h3>Comments</h3>
-
-
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'feministy'; // required: replace example with your forum shortname
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
