@@ -42,7 +42,7 @@ class RavelryCollection
   end
 
   def meta_layout
-    "layout: default\n"
+    "layout: collection\n"
   end
 
   def meta_title
