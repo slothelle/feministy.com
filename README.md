@@ -12,3 +12,4 @@ To fix:
 * Tutorial page layout
 * Wholesale page layout
 * Errata page layout
+* Close button on all modals
