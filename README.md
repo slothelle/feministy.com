@@ -13,3 +13,4 @@ To fix:
 * Wholesale page layout
 * Errata page layout
 * Close button on all modals
+* Individual pattern pages
