@@ -1,11 +1,15 @@
-### Hello, this is my website.
+feministy.com
+=============
 
-I made it using:
+This is my knitting website. Isn't it pretty?
 
-* Jekyll
-* Ravelry API
-* My pattern data in Ravelry
-* Typekit for fonts
-* Pure CSS for the layout base
-* Twitter Boostrap JS for the modal
+To fix:
 
+* Blog pages missing
+* Blog page layout
+* Collection page layout
+* Shop page layout
+* Tutorial page layout
+* Wholesale page layout
+* Errata page layout
+* Close button on all modals
