@@ -9,7 +9,7 @@
     "build": "echo '... building' npm run minify:js -s && npm run build:css",
     "build:js": "browserify src/scripts/index.js -o public/js/index.js",
     "build:css": "node-sass --include-path scss src/scss/main.scss public/css/main.css",
-    "build:dev": "npm run build:css & npm run build:js & copy:html",
+    "build:dev": "npm run build:css & npm run build:js & npm run copy:html",
     "minify:js": "echo '... minify:js' && uglifyjs src/scripts/index.js -o public/js/index.min.js",
     "start": "npm run watch & http-server public/",
     "watch": "nodemon --watch src/ -e scss,js,html -x 'npm run build:dev'"
