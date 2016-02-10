@@ -15,7 +15,19 @@
 </head>
 <body ng-app="feministyDotCom">
 
-  <div id="landing-page" ui-view="landing-page"></div>
+  <div id="landing-page" ui-view="landing-page">
+    <!-- pretty landing page stuff! -->
+  </div>
+
+  <div class="container">
+    <div id="nav" class="row" ui-view="nav"></div>
+
+    <div id="header" class="row" ui-view="header"></div>
+
+    <div id="content" class="row">
+      <!-- stuff -->
+    </div>
+  </div>
   <!--[if lt IE 7]>
     <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
   <![endif]-->
