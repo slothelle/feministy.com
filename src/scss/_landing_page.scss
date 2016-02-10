@@ -1,0 +1,40 @@
+#landing-page {
+  padding: 0px;
+  margin: 0px;
+  background: url(/images/desktop/geode.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+  position: fixed;
+  width: 100%;
+  min-height: 100%;
+  overflow: none;
+
+  #branding {
+    padding: 5% 2%;
+    font-size: 2em;
+    a {
+      text-decoration: none;
+      color: #fff;
+      font-weight: 500;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .text-shadow {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 2px 2px 8px rgba(150, 150, 150, 1);
+  }
+
+  #name img {
+    margin: 0 auto;
+    display: block;
+  }
+}
