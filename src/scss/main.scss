@@ -3,3 +3,12 @@
 
 @import "landing_page";
 @import "menu";
+
+.header {
+  text-align: center;
+  padding: 10%;
+  img {
+    display: inline-block;
+    margin: 0 auto;
+  }
+}
