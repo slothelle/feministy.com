@@ -1,0 +1,35 @@
+#nav {
+  font-weight: 300;
+  background-color: #f5f5f5;
+  ul {
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px 25px 10px 25px;
+    margin-bottom: 0px;
+  }
+  li {
+    display: inline-block;
+    padding-right: 15px;
+    &:last-child {
+      padding-right: 0px;
+    }
+    &.separator {
+      font-weight: 700;
+    }
+  }
+  a {
+    color: #333;
+    text-decoration: none;
+    &:hover {
+      color: lighten(#333, 40%);
+    }
+  }
+
+  .pattern-menu {
+    float: left;
+  }
+
+  .helper-menu {
+    float: right;
+  }
+}
