@@ -5,7 +5,7 @@
   "main": "src/scripts/index.js",
   "scripts": {
     "copy:static": "cp -r src/assets/ public/assets/",
-    "copy:html": "cp -r src/index.html public/index.html",
+    "copy:html": "cp src/*.html public/ && cp -r src/templates/ public/templates/",
     "build": "echo '... building' npm run minify:js -s && npm run build:css",
     "build:js": "browserify src/scripts/index.js -o public/js/index.js",
     "build:css": "node-sass --include-path scss src/scss/main.scss public/css/main.css",
