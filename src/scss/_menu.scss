@@ -1,3 +1,4 @@
+// all nav menus
 #nav {
   background-color: #f5f5f5;
   ul {
@@ -30,5 +31,22 @@
 
   .helper-menu {
     float: right;
+  }
+}
+
+// all other inline menus
+ul.menu {
+  list-style-type: none;
+  padding: 15px 25px 10px 25px;
+  margin: 50px auto;
+  border-top: 1px solid #f5f5f5;
+  border-bottom: 1px solid #f5f5f5;
+  text-align: center;
+  li {
+    display: inline-block;
+    padding-right: 20px;
+  }
+  &.submenu {
+
   }
 }

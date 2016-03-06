@@ -4,11 +4,30 @@
 @import "landing_page";
 @import "menu";
 
+a {
+  text-decoration: none;
+  color: #505180;
+  &:hover {
+    color: #FF5198;
+  }
+}
+
 .header {
   text-align: center;
-  padding: 10%;
+  padding: 10% 10% 2% 10%;
   img {
     display: inline-block;
     margin: 0 auto;
+  }
+}
+
+#patterns {
+  .row {
+    margin-bottom: 5%;
+  }
+  .columns {
+    img {
+      max-width: 100%;
+    }
   }
 }
