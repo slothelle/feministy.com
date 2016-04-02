@@ -12,7 +12,7 @@ GEM
       slop (~> 3.4)
     pry-nav (0.2.4)
       pry (>= 0.9.10, < 0.11.0)
-    ravelry (0.0.9)
+    ravelry (0.1.0)
       typhoeus (~> 0.8)
     slop (3.6.0)
     typhoeus (0.8.0)
@@ -24,4 +24,4 @@ PLATFORMS
 DEPENDENCIES
   pry
   pry-nav
-  ravelry
+  ravelry (~> 0.1)
