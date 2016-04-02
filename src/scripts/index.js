@@ -44,6 +44,21 @@ feministyDotCom.config(function($stateProvider, $urlRouterProvider) {
       }
     },
     url: '/patterns/category/:id'
+  }).state('pattern', {
+    views: {
+      "nav": {
+        templateUrl: 'templates/menu.html'
+      },
+      "header": {
+        templateUrl: 'templates/header.html'
+      },
+      "content@": {
+        templateUrl: function ($stateParams) {
+          return 'templates/pattern_' + $stateParams.id + '.html'
+        }
+      }
+    },
+    url: '/:id'
   })
   $urlRouterProvider.otherwise('/');
 })
