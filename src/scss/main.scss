@@ -21,7 +21,30 @@ a {
   }
 }
 
-#patterns {
+#pattern {
+  .description {
+    text-align: justify;
+  }
+  .centered {
+    text-align: center;
+    margin: 0 auto;
+  }
+  h1, a {
+    margin: 5% !important;
+  }
+  a {
+    display: inline-block;
+    padding: 10px;
+    background-color: lighten(#d9d9d9, 10%);
+    color: #222;
+    &:hover {
+      background-color: #505180;
+      color: darken(#fff, 15%);
+    }
+  }
+}
+
+#patterns, #pattern {
   .row {
     margin-bottom: 5%;
   }
