@@ -1,0 +1,3 @@
+---title:Wish I Was Weaving This Cowl
+---
+"This quick and easy basketweave cowl can be knit in nearly any yarn weight, and is suitable for beginning knitters. This cowl reminds me of my days spent weav- ing and continuously reminds me of my forgotten hobby. Worked in the round, the reversible stitch is easy to mem- orize or adapt to other yarn weights. Instructions are also given for an infinity cowl, which can be worn looped around your neck multiple times.\n\nRemember to check your gauge! Knit a little loosely, the woven stitch motif doesn’t tug or squish up like many knit/purl motifs. If your gauge results in more stitches per inch/cm, I would recommend going up a needle to achieve the desired flat effect of the cowl shown.\n\n"

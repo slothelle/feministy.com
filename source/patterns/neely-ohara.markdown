@@ -1,0 +1,3 @@
+---title:Neely O'Hara
+---
+"Poor Neely. She had all the talent in the world in Jacqueline Susann’s Valley of the Dolls and she ended up getting addicted to pills. It’s a story we’re all familiar with now: rising young star gets ad- dicted to toxic substance and destroys her career in the process. But, like Judy Garland, Neely will always hold a soft spot in my heart as one of the original Hollywood drama queens. Neely’s downward spiral comes to life in the stitch motif, which flows down the sock.\n\nDue to the nature of this pattern, sizing is adjusted by going up a needle size. Be sure to select a sock yarn that is slightly thicker and plan to use the larger needle.\n\nThis pattern is written using the Magic Loop method.\n\n"

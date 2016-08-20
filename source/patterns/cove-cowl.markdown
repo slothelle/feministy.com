@@ -1,0 +1,3 @@
+---title:Cove Cowl
+---
+"Crashing waves, sandy beaches, and Irish folkore regarding both of those elements inspired this complex cabled cowl. From kelpies to the merrow, Irish oceanic folklore is utterly terrifying, not unlike these cables at first glance. It seems only fitting that the yarn for this ocean folklore inspired cowl be from an Irish lass.\n\nI recommend cabling without a cable needle to make the pattern work up more quickly. Without it, you could be working dozens of cables crosses per round. I would not recommend using anything heavier than a worsted weight because it will cause the stitches to tug on each other in an unpleasing manner.\n\nThe yarn used in this pattern is classified as an aran weight in Ravelry, but it knits up like a worsted.\n\n"

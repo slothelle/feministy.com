@@ -1,0 +1,3 @@
+---title:Hey Jupiter
+---
+"The color of this yarn is named after a particular type of lava flow found in Hawaii. Pele is the Hawaiian goddess of fire, lightning, volcanoes, and dance. It seems only fitting that name of this sock pattern would have similar origins.\n\nNamed after the Tori Amos song of the same title, these socks were inspired by the beautiful violence of the goddess Pele, pah hoe hoe lava, and the album Boys for Pele on which “Hey Jupiter” is featured.\n\n* * *\n\nErrata: PDF version 1.   \nCurrent PDF version: 2.\n\n"

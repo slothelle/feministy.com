@@ -1,0 +1,3 @@
+---title:Coraline
+---
+"This is a sock I think Coraline would wear. She’s a resourceful girl who isn’t afraid of adventures. She’s smart, witty, and brave. If Coraline were a knitter, I think she’d definitely find uses for all of her scrap yarn and make something more beautiful than this.\n\nI thought about knitting jacquard stars onto the socks, but I remembered Coraline’s striped socks from the film, so I went with stripes instead. A lot easier if you ask me!\n\nThis is a perfect pattern for sock scraps for those not ambitious enough to make a blanket.\n\n"
