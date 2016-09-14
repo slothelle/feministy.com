@@ -1,2 +1,5 @@
 .sass-cache/*
+wp-content
 .sass-cache
+node_modules
+
