@@ -5,11 +5,8 @@ import Home from './Home';
 const App = ({ children }) => (
   <div>
     <header>
-      <h1>How do Gemfiles even?</h1>
-      <div>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-      </div>
+      <Link to="/">Home</Link>
+      <Link to="/about">About</Link>
     </header>
     <section>
       {children || <Home />}

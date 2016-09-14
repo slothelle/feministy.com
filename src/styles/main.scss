@@ -14,33 +14,5 @@ body {
 }
 
 header {
-  color: #fff;
-  background: #E74C3C;
-  text-align: center;
-  padding-top: 80px;
-  h1 {
-    display: inline-block;
-    padding: 0 20px;
-    font-weight: 700;
-    font-size: 5rem;
-  }
-  a {
-    display: inline-block;
-    margin: 10px;
-    padding: 10px;
-    color: #fff;
-    text-decoration: none;
-    border-bottom: 3px solid #E74C3C;
-    &.active,
-    &:hover {
-      border-bottom: 3px solid #fff;
-    }
-  }
-}
-
-section {
- padding: 20px;
- margin: 0 auto;
- max-width: 960px;
- font-size: 1.25rem;
+  
 }

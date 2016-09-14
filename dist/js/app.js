@@ -26411,23 +26411,14 @@ var App = function App(_ref) {
       'header',
       null,
       _react2.default.createElement(
-        'h1',
-        null,
-        'How do Gemfiles even?'
+        _reactRouter.Link,
+        { to: '/' },
+        'Home'
       ),
       _react2.default.createElement(
-        'div',
-        null,
-        _react2.default.createElement(
-          _reactRouter.Link,
-          { to: '/' },
-          'Home'
-        ),
-        _react2.default.createElement(
-          _reactRouter.Link,
-          { to: '/about' },
-          'About'
-        )
+        _reactRouter.Link,
+        { to: '/about' },
+        'About'
       )
     ),
     _react2.default.createElement(
@@ -26460,67 +26451,9 @@ var Home = function Home() {
     'div',
     null,
     _react2.default.createElement(
-      'h2',
+      'h1',
       null,
-      'What is a Gemfile?'
-    ),
-    _react2.default.createElement(
-      'p',
-      null,
-      'A Gemfile is a special file in Ruby that allows you to declare, among other things:'
-    ),
-    _react2.default.createElement(
-      'ul',
-      null,
-      _react2.default.createElement(
-        'li',
-        null,
-        'The Ruby version for your project'
-      ),
-      _react2.default.createElement(
-        'li',
-        null,
-        'A source for your dependencies (aka Ruby Gems)'
-      ),
-      _react2.default.createElement(
-        'li',
-        null,
-        'What version you\'re using for each dependency'
-      )
-    ),
-    _react2.default.createElement(
-      'h2',
-      null,
-      'What is a Ruby Gem?'
-    ),
-    _react2.default.createElement(
-      'p',
-      null,
-      'A gem is nothing more than a bunch of files (usually Ruby, but sometimes other languages) grouped together to provide functionality. You could also call a gem a library!'
-    ),
-    _react2.default.createElement(
-      'p',
-      null,
-      'Some examples of well know Ruby gems include:'
-    ),
-    _react2.default.createElement(
-      'ul',
-      null,
-      _react2.default.createElement(
-        'li',
-        null,
-        'Rails, a web framework'
-      ),
-      _react2.default.createElement(
-        'li',
-        null,
-        'Bundler, a tool used to create gems and manage Gemfiles'
-      )
-    ),
-    _react2.default.createElement(
-      'p',
-      null,
-      '(yes, it\'s very meta - a Ruby gem is used to manage Ruby gems!)'
+      'hello!'
     )
   );
 };
