@@ -3,3 +3,4 @@ wp-content
 .sass-cache
 node_modules
 dist/*
+dist
