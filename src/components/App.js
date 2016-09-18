@@ -7,6 +7,7 @@ const App = ({ children }) => (
     <header>
       <Link to="/">Home</Link>
       <Link to="/about">About</Link>
+      <Link to="/pattern">Pattern</Link>
     </header>
     <section>
       {children || <Home />}

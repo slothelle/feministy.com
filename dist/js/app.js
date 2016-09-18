@@ -26332,6 +26332,10 @@ var _About = require('./components/About');
 
 var _About2 = _interopRequireDefault(_About);
 
+var _Pattern = require('./components/Pattern');
+
+var _Pattern2 = _interopRequireDefault(_Pattern);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 window.React = _react2.default;
@@ -26342,11 +26346,12 @@ window.React = _react2.default;
   _react2.default.createElement(
     _reactRouter.Route,
     { path: '/', component: _App2.default },
-    _react2.default.createElement(_reactRouter.Route, { path: '/about', component: _About2.default })
+    _react2.default.createElement(_reactRouter.Route, { path: '/about', component: _About2.default }),
+    _react2.default.createElement(_reactRouter.Route, { path: '/pattern', component: _Pattern2.default })
   )
 ), document.getElementById('content'));
 
-},{"./components/About":236,"./components/App":237,"react":232,"react-dom":50,"react-router":80}],236:[function(require,module,exports){
+},{"./components/About":236,"./components/App":237,"./components/Pattern":239,"react":232,"react-dom":50,"react-router":80}],236:[function(require,module,exports){
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -26419,6 +26424,11 @@ var App = function App(_ref) {
         _reactRouter.Link,
         { to: '/about' },
         'About'
+      ),
+      _react2.default.createElement(
+        _reactRouter.Link,
+        { to: '/pattern' },
+        'Pattern'
       )
     ),
     _react2.default.createElement(
@@ -26460,7 +26470,89 @@ var Home = function Home() {
 
 exports.default = Home;
 
-},{"react":232}]},{},[235])
+},{"react":232}],239:[function(require,module,exports){
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = require('react');
+
+var _react2 = _interopRequireDefault(_react);
+
+var _reactDom = require('react-dom');
+
+var _reactDom2 = _interopRequireDefault(_reactDom);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+
+var data = [{
+  name: 'very pdx hat',
+  gauge: 'this is a placeholder',
+  description: 'Look, another placeholder!',
+  thumbnails: ['http://images4-b.ravelrycache.com/uploads/feministy/274632786/very-pdx-1_small_best_fit.jpg', 'http://images4-e.ravelrycache.com/uploads/feministy/293479459/IMG_7190_small_best_fit.jpg', 'http://images4-e.ravelrycache.com/uploads/feministy/293479461/IMG_7189_small_best_fit.jpg', 'http://images4-e.ravelrycache.com/uploads/globallooping/319141870/IMG_8496_small_best_fit.JPG']
+}, {
+  name: 'winter sea'
+}];
+
+var Pattern = function (_React$Component) {
+  _inherits(Pattern, _React$Component);
+
+  function Pattern() {
+    _classCallCheck(this, Pattern);
+
+    return _possibleConstructorReturn(this, (Pattern.__proto__ || Object.getPrototypeOf(Pattern)).apply(this, arguments));
+  }
+
+  _createClass(Pattern, [{
+    key: 'render',
+    value: function render() {
+      console.log("rendered");
+      var patternNodes = this.props.data.map(function (pattern) {
+        return _react2.default.createElement(
+          'div',
+          { className: 'patternInfo', key: pattern.name },
+          _react2.default.createElement(
+            'h1',
+            null,
+            'Pattern'
+          ),
+          _react2.default.createElement(
+            'h2',
+            null,
+            pattern.name
+          )
+        );
+      });
+      return _react2.default.createElement(
+        'div',
+        { className: 'patternContainer' },
+        patternNodes
+      );
+    }
+  }]);
+
+  return Pattern;
+}(_react2.default.Component);
+
+Pattern.propTypes = {
+  data: _react2.default.PropTypes.array.isRequired
+};
+
+_reactDom2.default.render(_react2.default.createElement(Pattern, { data: data }), document.getElementById('content'));
+
+exports.default = Pattern;
+
+},{"react":232,"react-dom":50}]},{},[235])
 
 
 //# sourceMappingURL=app.js.map
