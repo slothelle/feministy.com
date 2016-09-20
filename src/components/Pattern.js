@@ -12,8 +12,6 @@ class Pattern extends React.Component {
   }
 
   render() {
-    console.log(this.state.data)
-    console.log(this.state.hello)
     let patternNodes = this.state.data.map(pattern => {
       return (
           <div className="patternInfo" key={pattern.name}>
