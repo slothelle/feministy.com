@@ -26495,29 +26495,28 @@ function _possibleConstructorReturn(self, call) { if (!self) { throw new Referen
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-var data = [{
-  name: 'very pdx hat',
-  gauge: 'this is a placeholder',
-  description: 'Look, another placeholder!',
-  thumbnails: ['http://images4-b.ravelrycache.com/uploads/feministy/274632786/very-pdx-1_small_best_fit.jpg', 'http://images4-e.ravelrycache.com/uploads/feministy/293479459/IMG_7190_small_best_fit.jpg', 'http://images4-e.ravelrycache.com/uploads/feministy/293479461/IMG_7189_small_best_fit.jpg', 'http://images4-e.ravelrycache.com/uploads/globallooping/319141870/IMG_8496_small_best_fit.JPG']
-}, {
-  name: 'winter sea'
-}];
+var data = [{ name: 'hello panda' }];
 
 var Pattern = function (_React$Component) {
   _inherits(Pattern, _React$Component);
 
-  function Pattern() {
+  function Pattern(props) {
     _classCallCheck(this, Pattern);
 
-    return _possibleConstructorReturn(this, (Pattern.__proto__ || Object.getPrototypeOf(Pattern)).apply(this, arguments));
+    var _this = _possibleConstructorReturn(this, (Pattern.__proto__ || Object.getPrototypeOf(Pattern)).call(this, props));
+
+    _this.state = {
+      data: data
+    };
+    return _this;
   }
 
   _createClass(Pattern, [{
     key: 'render',
     value: function render() {
-      console.log("rendered");
-      var patternNodes = this.props.data.map(function (pattern) {
+      console.log(this.state.data);
+      console.log(this.state.hello);
+      var patternNodes = this.state.data.map(function (pattern) {
         return _react2.default.createElement(
           'div',
           { className: 'patternInfo', key: pattern.name },
@@ -26533,6 +26532,7 @@ var Pattern = function (_React$Component) {
           )
         );
       });
+
       return _react2.default.createElement(
         'div',
         { className: 'patternContainer' },
@@ -26545,10 +26545,10 @@ var Pattern = function (_React$Component) {
 }(_react2.default.Component);
 
 Pattern.propTypes = {
-  data: _react2.default.PropTypes.array.isRequired
+  data: _react2.default.PropTypes.array
 };
 
-_reactDom2.default.render(_react2.default.createElement(Pattern, { data: data }), document.getElementById('content'));
+_reactDom2.default.render(_react2.default.createElement(Pattern, null), document.getElementById('content'));
 
 exports.default = Pattern;
 

@@ -1,27 +1,20 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-let data = [
-  {
-    name: 'very pdx hat',
-    gauge: 'this is a placeholder',
-    description: 'Look, another placeholder!',
-    thumbnails: [
-      'http://images4-b.ravelrycache.com/uploads/feministy/274632786/very-pdx-1_small_best_fit.jpg',
-      'http://images4-e.ravelrycache.com/uploads/feministy/293479459/IMG_7190_small_best_fit.jpg',
-      'http://images4-e.ravelrycache.com/uploads/feministy/293479461/IMG_7189_small_best_fit.jpg',
-      'http://images4-e.ravelrycache.com/uploads/globallooping/319141870/IMG_8496_small_best_fit.JPG'
-    ]
-  },
-  {
-    name: 'winter sea'
-  }
-]
+const data = [{ name: 'hello panda' }]
 
 class Pattern extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      data: data
+    }
+  }
+
   render() {
-    console.log("rendered")
-    let patternNodes = this.props.data.map(pattern => {
+    console.log(this.state.data)
+    console.log(this.state.hello)
+    let patternNodes = this.state.data.map(pattern => {
       return (
           <div className="patternInfo" key={pattern.name}>
             <h1>Pattern</h1>
@@ -29,6 +22,7 @@ class Pattern extends React.Component {
           </div>
         )
     })
+
     return (
       <div className="patternContainer">
         {patternNodes}
@@ -38,11 +32,11 @@ class Pattern extends React.Component {
 }
 
 Pattern.propTypes = {
-  data: React.PropTypes.array.isRequired
+  data: React.PropTypes.array
 }
 
 ReactDOM.render(
-  <Pattern data={data} />,
+  <Pattern />,
   document.getElementById('content')
 )
 
